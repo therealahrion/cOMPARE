@@ -1,6 +1,6 @@
-.class final Lcom/dolby/api/DsClientInfo$1;
+.class final Landroid/dolby/DsClientSettings$1;
 .super Ljava/lang/Object;
-.source "DsClientInfo.java"
+.source "DsClientSettings.java"
 
 # interfaces
 .implements Landroid/os/Parcelable$Creator;
@@ -8,7 +8,7 @@
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/dolby/api/DsClientInfo;
+    value = Landroid/dolby/DsClientSettings;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
@@ -21,7 +21,7 @@
         "Ljava/lang/Object;",
         "Landroid/os/Parcelable$Creator",
         "<",
-        "Lcom/dolby/api/DsClientInfo;",
+        "Landroid/dolby/DsClientSettings;",
         ">;"
     }
 .end annotation
@@ -32,7 +32,7 @@
     .registers 1
 
     .prologue
-    .line 50
+    .line 89
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void
@@ -40,15 +40,15 @@
 
 
 # virtual methods
-.method public createFromParcel(Landroid/os/Parcel;)Lcom/dolby/api/DsClientInfo;
+.method public createFromParcel(Landroid/os/Parcel;)Landroid/dolby/DsClientSettings;
     .registers 3
     .param p1, "source"    # Landroid/os/Parcel;
 
     .prologue
-    .line 54
-    new-instance v0, Lcom/dolby/api/DsClientInfo;
+    .line 93
+    new-instance v0, Landroid/dolby/DsClientSettings;
 
-    invoke-direct {v0, p1}, Lcom/dolby/api/DsClientInfo;-><init>(Landroid/os/Parcel;)V
+    invoke-direct {v0, p1}, Landroid/dolby/DsClientSettings;-><init>(Landroid/os/Parcel;)V
 
     return-object v0
 .end method
@@ -58,21 +58,21 @@
     .param p1, "source"    # Landroid/os/Parcel;
 
     .prologue
-    .line 52
-    invoke-virtual {p0, p1}, Lcom/dolby/api/DsClientInfo$1;->createFromParcel(Landroid/os/Parcel;)Lcom/dolby/api/DsClientInfo;
+    .line 91
+    invoke-virtual {p0, p1}, Landroid/dolby/DsClientSettings$1;->createFromParcel(Landroid/os/Parcel;)Landroid/dolby/DsClientSettings;
 
     move-result-object v0
 
     return-object v0
 .end method
 
-.method public newArray(I)[Lcom/dolby/api/DsClientInfo;
+.method public newArray(I)[Landroid/dolby/DsClientSettings;
     .registers 3
     .param p1, "size"    # I
 
     .prologue
-    .line 59
-    new-array v0, p1, [Lcom/dolby/api/DsClientInfo;
+    .line 98
+    new-array v0, p1, [Landroid/dolby/DsClientSettings;
 
     return-object v0
 .end method
@@ -82,8 +82,8 @@
     .param p1, "size"    # I
 
     .prologue
-    .line 57
-    invoke-virtual {p0, p1}, Lcom/dolby/api/DsClientInfo$1;->newArray(I)[Lcom/dolby/api/DsClientInfo;
+    .line 96
+    invoke-virtual {p0, p1}, Landroid/dolby/DsClientSettings$1;->newArray(I)[Landroid/dolby/DsClientSettings;
 
     move-result-object v0
 
