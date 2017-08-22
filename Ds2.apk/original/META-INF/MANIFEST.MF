@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_91 (Oracle Corporation)
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: E+M/bPrVYA9ZqK8RFiEkvVSbqMP6+Ac3f80m80s8AIk=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: XNDz5dqkxMXRKDHeuUqKFS1FF1xUr3qfOTEr63hK9/Q=
+
+Name: resources.arsc
+SHA-256-Digest: tt4hOKgSQ9SUk54ypoAWQg5ZgfJGUNam7SgaC8Fpw4Q=
+

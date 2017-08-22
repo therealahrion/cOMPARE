@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intelligent_equalizer">智能均衡器</string>
+    <string name="surround_virtualizer">环绕声虚拟器</string>
+    <string name="dialogue_enhancer">对白增强器</string>
+    <string name="volume_leveler">音量调节器</string>
+    <string name="copyright">Dolby 和双 D 符号是 Dolby Laboratories 的注册商标。© 2014 Dolby Laboratories。保留所有权利。</string>
+    <string name="movie">电影</string>
+    <string name="music">音乐</string>
+    <string name="game">游戏</string>
+    <string name="voice">语音</string>
+    <string name="preset_1">自定义 1</string>
+    <string name="preset_2">自定义 2</string>
+    <string name="open">开扩</string>
+    <string name="rich">饱满</string>
+    <string name="focused">集中</string>
+    <string name="off">关</string>
+    <string name="custom">手动</string>
+    <string name="db36">36dB</string>
+    <string name="db24">24dB</string>
+    <string name="db12">12dB</string>
+    <string name="db0">0dB</string>
+    <string name="dbn12">-12dB</string>
+    <string name="graphical_equalizer">图形均衡器</string>
+    <string name="app_name">Dolby Atmos</string>
+    <string name="instore_menu_text">播放演示</string>
+    <string name="explore_dolby_atmos">"探索 
+Dolby Atmos"</string>
+    <string name="dolby_explore_atmos_remark">Dolby Atmos 还原的多维声场会让您感觉到声音在头顶和四周流动，从而创造出绝妙的耳机体验。</string>
+    <string name="dolby_explore_atmos_learn_more">了解更多信息</string>
+    <string name="experience_dolby_enhanced_apps">体验 Dolby 性能增强的应用</string>
+    <string name="experience_dolby_remark">您可以尽情地沉浸在那些利用了 Dolby Audio 技术的应用和游戏中。不管您是使用耳机还是内置扬声器，对话都变得更为清晰，音量都会得到很好的平衡，您的感受也会更加身临其境。</string>
+    <string name="access_dolby_enhanced_app">立即访问 Dolby 性能增强的应用！</string>
+    <string name="dolby_atmos_logo_mark">®</string>
+    <string name="tooltip_eq_title">智能均衡器/图形均衡器</string>
+    <string name="tooltip_eq_text">智能均衡器用于分析并动态调整音频，使其达到期望的音调。从显示的四种预设中选择一种，然后按“频谱分析仪”，对图形均衡器进行定制修改。</string>
+    <string name="tooltip_sv_title">环绕声虚拟器</string>
+    <string name="tooltip_sv_text">环绕声虚拟器用于从任何耳机或立体声扬声器创造出逼真的环绕立体声。通过将开关设为开或关可以控制环绕立体声的音效。</string>
+    <string name="tooltip_de_title">对白增强器</string>
+    <string name="tooltip_de_text">对白增强器用于提高任何类型媒体中的语音清晰度。通过将开关设为开或关可以控制对话的增强效果。</string>
+    <string name="tooltip_vl_title">音量调节器</string>
+    <string name="tooltip_vl_text">音量调节器可以根据设备的主音量水平，为所有内容和应用场合提供一致的音量。通过将开关设为开或关可以实现自动音量调节。</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="20.0dip">
+        <TextView android:textSize="14.0sp" android:textColor="@color/white" android:id="@id/equalizerLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/intelligent_equalizer" android:layout_alignBottom="@id/equalizerName" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="14.0sp" android:id="@id/equalizerName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="@string/bright" android:layout_toRightOf="@id/equalizerLabel" style="@style/TextAppearanceLargeBlue" />
+        <ImageView android:id="@id/eqResetButton" android:paddingLeft="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/revert_profile" android:layout_alignBottom="@id/equalizerName" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <GridView android:id="@id/equalizerListView" android:scrollbars="none" android:clickable="true" android:layout_width="fill_parent" android:layout_height="100.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="30.0dip" android:listSelector="@android:color/transparent" android:horizontalSpacing="10.0dip" android:verticalSpacing="10.0dip" android:numColumns="2" android:choiceMode="singleChoice" android:soundEffectsEnabled="false" android:overScrollMode="never" />
+</LinearLayout>

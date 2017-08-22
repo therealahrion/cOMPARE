@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:constantSize="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_checked="true" android:drawable="@drawable/switchon_ldrtl" />
+    <item android:state_enabled="true" android:drawable="@drawable/switchoff_ldrtl" />
+    <item android:drawable="@drawable/switchdis_ldrtl" />
+</selector>

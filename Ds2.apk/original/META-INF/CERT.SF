@@ -1,0 +1,14 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: ye1WRZVCk6jZzJCMHxfXMkW00qjF6OWHetJTJolpCow=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: f0oyBKI+PGHjJCol0lhRbzDm3POCxGtyd0tGsMQsrB0=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 3DcfqdPA2KSnt6uXTuCczxvu0B1fpFa5EoI4v1tUMVA=
+
+Name: resources.arsc
+SHA-256-Digest: PJyXLfRg+HSgnh51aqqHEAUmwhVUQZC6VgTuKaMBjB4=
+

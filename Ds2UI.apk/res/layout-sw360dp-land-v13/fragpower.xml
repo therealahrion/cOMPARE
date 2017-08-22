@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/powerButtonOff" android:layout_width="99.0sp" android:layout_height="82.0sp" android:layout_marginLeft="1.0dip" android:layout_marginTop="1.0dip" android:src="@drawable/power_off" android:contentDescription="@string/powerOff" />
+    <ImageView android:id="@id/powerButtonOn" android:layout_width="99.0sp" android:layout_height="82.0sp" android:layout_marginLeft="1.0dip" android:layout_marginTop="1.0dip" android:src="@drawable/power_on" android:contentDescription="@string/powerOn" />
+</RelativeLayout>

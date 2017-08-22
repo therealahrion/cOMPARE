@@ -1,0 +1,3003 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA1-Digest-Manifest: I9klaDs2IYnYw5zaXW4ZRkc24XU=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: eNL/iIJCV0cqj1YILquBsbmmo2M=
+
+Name: res/drawable/tooltip_border_4.png
+SHA1-Digest: sQeimP8HD/reOUEjaJFkCG/Uj2I=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/eqlistframe_ldrtl.png
+SHA1-Digest: f1dxlCPfHQk0/dCRCsFkQ8n2NTs=
+
+Name: res/layout-sw320dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: qox4yux6U652QqsRy3yb28y4CJg=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq2.png
+SHA1-Digest: PzTw6hkP3dcw8TvtLk7Srm3HLb8=
+
+Name: res/layout-sw320dp-port-v13/preset_list_item1.xml
+SHA1-Digest: Qp56ofHPgLLpY0X73oZkctBVit4=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: nUB3EpTGxNh2ZgWxlmlTluNocEI=
+
+Name: res/drawable-xhdpi-v4/tooltip_qm.png
+SHA1-Digest: UWkW7L8EpjRhdWg0LsEgca3Vu5A=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: MhVZiFIfsC4fjaVNuqVVnZlCoK4=
+
+Name: res/layout-sw720dp-port-mdpi-v13/preset_list_item.xml
+SHA1-Digest: LiUO0/Tg4a+qZxFYXNHBpDbde1s=
+
+Name: res/drawable-sw480dp-land-xhdpi-v13/bg_dolby_app.png
+SHA1-Digest: azda/RsJMas9+4FIg2GWXAVeTJc=
+
+Name: res/drawable/close_off.png
+SHA1-Digest: 0xXqJJ4fxl+oSaIfR2an9wE6Su4=
+
+Name: res/layout-sw800dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: AlONq9UhQjEwlebx83px8dPW3e8=
+
+Name: res/drawable-sw600dp-xhdpi-v13/preset1dis.png
+SHA1-Digest: zyINNMmC6wDQxJqJcIFLZBTRrNQ=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/videoplayer.xml
+SHA1-Digest: otpKFKeqOLGdcOMQXoY+zbNiBFs=
+
+Name: res/drawable-sw600dp-v13/power_off.png
+SHA1-Digest: 8nrkVSa/6YG+UCA9VPJ1XM+rXcE=
+
+Name: res/drawable-sw360dp-xhdpi-v13/btn_scrollup.png
+SHA1-Digest: +2fMZr5nUXBWgveMbVaWLBV/FQw=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq4.png
+SHA1-Digest: NuMVEZBSb1DIL2XA+pnYIVIwz/s=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/fragequalizerpresets.xml
+SHA1-Digest: m7I5lbPWafK0OvotX4Y2q2hkfLk=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/equalizer_list_item.xml
+SHA1-Digest: ChdJ9uR1Z7219GR9kCLL+cii9M0=
+
+Name: res/layout-ldrtl-sw600dp-v13/equalizer_list_item.xml
+SHA1-Digest: YndECytNNsndRFmX898VHNCXYrs=
+
+Name: res/color/text_color.xml
+SHA1-Digest: y81n9Pqjt2MY+BYrelO/2QyE8nA=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq_thumb_touch_state.png
+SHA1-Digest: yRiu+LcmNbhp4REmWkYNDPoEwc4=
+
+Name: res/drawable-sw720dp-port-v13/eq_thumb.png
+SHA1-Digest: 1cfSmeBodHaLZkyltqTRHiOZRQs=
+
+Name: res/drawable-sw600dp-v13/eq2sel.png
+SHA1-Digest: HWpmqB6AViQQYjyqPeSg1V+1NwE=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: QH7F0lfUcFBQvYPkImOq7jfYaZ8=
+
+Name: res/drawable-sw600dp-xhdpi-v13/movieon.png
+SHA1-Digest: X78afaQ/sWv3GveOhxUPI5MX0SE=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/fragpower.xml
+SHA1-Digest: yG7SDnnTzjUocR4t1Nv7rgQmQhw=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/eqlistframe.png
+SHA1-Digest: AYnsLvAw24sbUXnOTRndXrGJB8g=
+
+Name: res/drawable-xhdpi-v4/eq_thumb.png
+SHA1-Digest: J4Kdih0POrTGo+VkM6W/+5P8DqU=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/main.xml
+SHA1-Digest: mP6BsrKetBnDia6BPjORzic1B/0=
+
+Name: res/drawable-sw640dp-port-v13/bg_dolby_app.png
+SHA1-Digest: eER0FBhXMohAdiN5Yi8tZALKlDc=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: ljO1o4+JAP2nO8KdxjL/JMfbS6Q=
+
+Name: res/layout-sw720dp-port-v13/fragswitches.xml
+SHA1-Digest: y9/+ANMCGHBC/ubc2lsGPsQUFxc=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/gamedis.png
+SHA1-Digest: j+qKX3xZuUaMW9QSvMCXCGF3g6o=
+
+Name: res/drawable-sw720dp-port-v13/eq2.png
+SHA1-Digest: k5ty1gaYzeUgNHp/w7dnDArrw0g=
+
+Name: res/layout-ldrtl-sw600dp-v13/fragswitches.xml
+SHA1-Digest: zXeP6abwJ8mycrgdD4amUmcFtLY=
+
+Name: res/drawable-sw600dp-xhdpi-v13/musicon.png
+SHA1-Digest: hBJ6YZoWpdSWp61q4HjSJPUKgo4=
+
+Name: res/layout-sw600dp-v13/explore_dolby_atmos.xml
+SHA1-Digest: 2Bd33NmaSrTh3lCXq/ThAuxRc8w=
+
+Name: res/drawable-sw640dp-port-v13/eqlistframe.png
+SHA1-Digest: iI1oi/LsoGj2txB+XItVST3B7Uk=
+
+Name: res/drawable/eq_thumb_touch_state.png
+SHA1-Digest: gx3irnKp2a/4n1UsKKvx5lVN0fw=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/preset_list_item1.xml
+SHA1-Digest: 9/gTdRNDXMxqVRhPHN137oXAfbY=
+
+Name: res/drawable-sw600dp-v13/preset1on.png
+SHA1-Digest: GsS5yJBo7cYz1Dyj5lhhTcuhF8o=
+
+Name: res/drawable-sw360dp-xhdpi-v13/preset2off.png
+SHA1-Digest: nNYzhqpq+PQAdOn4XcC4WtiRmJE=
+
+Name: res/layout-ldrtl-sw600dp-v13/preset_list_item1.xml
+SHA1-Digest: mDiKJ3TSVwcZwQX+viZGmBS/Mhk=
+
+Name: res/drawable-sw600dp-xhdpi-v13/gameon.png
+SHA1-Digest: YHqRD3eJa1Iy3ZQBxApW8JBU2tQ=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: /ErjeaUeeQvLgbpR3igHWax9NyQ=
+
+Name: res/drawable-sw600dp-v13/eq5.png
+SHA1-Digest: 5FqVNc61uzIWKiHKO9RtTtDjLa4=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: NmiMFCatBe3R7+g8hRm0wQnHbrg=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: cwLAB6R02CXHB6FfVop9XGEm91M=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/fragexploredolbyatmos.xm
+ l
+SHA1-Digest: JGPaYI517Ab5GO5E5GzPm9NF224=
+
+Name: res/drawable-sw640dp-port-v13/bg_dolby_atmos.png
+SHA1-Digest: 6QAUjM/89lUNsrLELKhyV98vBMo=
+
+Name: res/layout-sw800dp-port-v13/preset_list_item.xml
+SHA1-Digest: yioeWBN8TjWeDLjOvUkNEEkfxrg=
+
+Name: res/layout-sw720dp-port-v13/main.xml
+SHA1-Digest: xfIYzHAfLF3L+r9H2ikk4Q3b8II=
+
+Name: res/drawable-sw320dp-xhdpi-v13/power_off.png
+SHA1-Digest: FvOc0VLDenLgtWRNb4yhO/63jOo=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/preset_list_item1.xml
+SHA1-Digest: 7nsR9HKYtAMm97d5cFLIbu/qnpU=
+
+Name: res/drawable-sw600dp-v13/dslogodis.png
+SHA1-Digest: QDYqAc76YUtIW/A2czoOdyBvtaw=
+
+Name: res/layout-sw320dp-land-v13/explore_dolby_atmos.xml
+SHA1-Digest: NyYck6uEpqbzjVM2dsgDkw4o1qs=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/btn_scrollup.png
+SHA1-Digest: B/4CrO1YJ2p+ymxpOsWuGyKc/Do=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/fragswitches.xml
+SHA1-Digest: Fn1pAbHruWJDGx/KYsxlCcGCvcs=
+
+Name: res/drawable-sw720dp-port-v13/dslogo.png
+SHA1-Digest: b5W3S7T7R3Ryi6NNClF22lJ/zbU=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_8.png
+SHA1-Digest: 40nCLDm3CEPoHU5A4iNNZERQ4U4=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/musicdis.png
+SHA1-Digest: zkkJWm2ENOMMgSf7Z6o1Yzs84xw=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq3.png
+SHA1-Digest: 0I5e2Ny5Q/+3Y9AU4k7TSLA5Cgc=
+
+Name: res/drawable-sw600dp-v13/eq_thumb.png
+SHA1-Digest: WRuhAaKoOtDgPismHbGQTxSbirI=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/preset_list_item0.xml
+SHA1-Digest: QckIzWTz7umYQFN/TabnASVp1hY=
+
+Name: res/drawable-xhdpi-v4/launch_icon.png
+SHA1-Digest: v5NBpBOC6zLKVfHFdHherARLRKA=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/eqlayout.xml
+SHA1-Digest: 2fHOGx69l80YPl0j8UsxgB82sQM=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: INJFr3riYTBnOINZlRnn6tf5Tf4=
+
+Name: res/drawable-sw600dp-xhdpi-v13/highlight.png
+SHA1-Digest: w+4RI9wBRl0X0qhUAEm88486Ngg=
+
+Name: res/drawable-sw360dp-land-xhdpi-v13/eqlistoff.png
+SHA1-Digest: 79m1OLIG2poUbgjJhT8JnzO2sjE=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq1.png
+SHA1-Digest: uyOyyk+6cNYQUqzlPEIXswh6Ztc=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/fragprofilepresets.xml
+SHA1-Digest: 2VEQERQ1M6nks3Dxy6q+/S0GYJI=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: iAGGq6cy4+dmXSmTWudpsrvN5dQ=
+
+Name: res/drawable-xhdpi-v4/switchon_ldrtl.png
+SHA1-Digest: Wl7OTzEheueGZt/w74wjc1nXmEY=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/topbackground.png
+SHA1-Digest: bPL2Y5SC+j4ltD2tQAkjULwdVnk=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: LQCU8g91albflSTHdT1GgUf0wdo=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eqlistsel.png
+SHA1-Digest: OH5zvpWygcifRUKiuMC2S33wnJU=
+
+Name: res/drawable-sw600dp-xhdpi-v13/preset1off.png
+SHA1-Digest: 59vcSsU0g3ZLkuN3OBq37NDBHCc=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/preset_list_item1.xml
+SHA1-Digest: jvqu0uF7Z1Slbfg7GlnuKIny+JA=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: Nu2NqJLsKh5/PHne5rTRsCH4hb8=
+
+Name: res/drawable-sw480dp-hdpi-v13/bg_dolby_atmos.png
+SHA1-Digest: wohO/H1dd1pLWp99zCu7zW60Lks=
+
+Name: res/drawable-sw600dp-v13/eq2dis.png
+SHA1-Digest: GzEgKlQutRuAy0mUWHUTJWbkcZ8=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: lrP8RSsP/DkONsBahFpN16DOmPs=
+
+Name: res/drawable-sw320dp-xhdpi-v13/voiceon.png
+SHA1-Digest: Lj1TT/RlCuZszPEWhn7u1GI9HEY=
+
+Name: res/layout-sw800dp-port-hdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: S3IYQqd1Alp+1JLPq+pWXoEj8oU=
+
+Name: res/drawable-sw720dp-port-v13/revert_profile.png
+SHA1-Digest: AGFJz4hANhk78eXRrEIDjz//pJ4=
+
+Name: res/drawable/mock_gv_brick.png
+SHA1-Digest: QG93LH6ddCqwVdxR/snYg5jaO5o=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/splash_screen.xml
+SHA1-Digest: H81oyfHeC4ApRcGjGUu7A9Fck1o=
+
+Name: res/drawable-xhdpi-v4/revert.png
+SHA1-Digest: lsvOQRZU/CTUrdcInHBDebkQt9s=
+
+Name: res/drawable-sw360dp-xhdpi-v13/preset2dis.png
+SHA1-Digest: ZFkOvU/6aFuEIqVD2HAiapGh+M8=
+
+Name: res/drawable-sw360dp-xhdpi-v13/preset2on.png
+SHA1-Digest: HJiNMKqgrqYJ/kze87I3SO9ATQY=
+
+Name: res/drawable-sw600dp-land-v13/eqlistframe_ldrtl.png
+SHA1-Digest: cQgcgJtAlP9gRL2rKPr9yLt8xOk=
+
+Name: res/drawable-sw720dp-port-v13/eq3dis.png
+SHA1-Digest: MRFK9LdJkv3mYabss6HenXA0DC8=
+
+Name: res/drawable/switchoff.png
+SHA1-Digest: 7l/kgKUXjYyg9ntGSARkXboU/lQ=
+
+Name: res/drawable-sw720dp-port-v13/highlight.png
+SHA1-Digest: ehMY4dEOHjPOHsBv8AfzdWGhf8g=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq5dis.png
+SHA1-Digest: tRaiGjBOTDXu17HQ7RV5Idb7OFo=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/fragprofilepresets.xml
+SHA1-Digest: cQ9wbGlGlhDGbs049Bup3wKUGMU=
+
+Name: res/drawable/eq_custom_image.xml
+SHA1-Digest: dIZPP6DNYEA6+Ftn1jpJAh8zzac=
+
+Name: res/layout-ldrtl-sw600dp-v13/videoplayer.xml
+SHA1-Digest: v2CjtxjsWqazPTrlWM9ro4R+oiQ=
+
+Name: res/layout-sw360dp-land-v13/fragpower.xml
+SHA1-Digest: G1CMWD8xS6Qh5vFqv13n93i8Sk0=
+
+Name: res/drawable-sw320dp-xhdpi-v13/switchoff.png
+SHA1-Digest: NZORKG8KrZqxkHJISMqkr2UaPy4=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/videoplayer.xml
+SHA1-Digest: /mRezIy5tfZG+Vxvr4oMYU49d8g=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: 6WUOYltwhcaUdHUbnJW3Hck3j98=
+
+Name: res/drawable-sw320dp-xhdpi-v13/dslogodis.png
+SHA1-Digest: WzH5tl2y0VQY1LNxXBy+aGaV6cM=
+
+Name: res/drawable-sw600dp-v13/eq6.png
+SHA1-Digest: gH/RKdYwYEcdxzzh9QJgUpzfr4M=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/fraggraphicvisualizer.xml
+SHA1-Digest: XQ7dPMBTcZYebGGoepuZGPl7nns=
+
+Name: res/drawable-sw720dp-port-v13/eq3sel.png
+SHA1-Digest: s4PVeNwHUPT9U+PKx2tyjRyMw9g=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq5sel.png
+SHA1-Digest: Uv8b97LAQpF8Vs75555cL8jVEHc=
+
+Name: res/layout-sw360dp-land-v13/fragprofilepresets.xml
+SHA1-Digest: 8wHVBJiyydsqhv/POuF86qGH2U8=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/preset_list_item0.xml
+SHA1-Digest: /f+TGfnuqRQe0ScJVjnweg2xAQk=
+
+Name: res/drawable-sw720dp-port-v13/eq6dis.png
+SHA1-Digest: 2UYVzlLFcwhrKd9EWMUjVenSwc0=
+
+Name: res/drawable-sw720dp-port-v13/eq6sel.png
+SHA1-Digest: 8B48illMtMBU+MVrpNbkofVCVIU=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_7.png
+SHA1-Digest: qF3WLH6quvDm7xJNz+NERZaF2vk=
+
+Name: res/drawable/tooltip_qm.png
+SHA1-Digest: WQSfjHsi0Kq6M/NPHU+1tOlKhZU=
+
+Name: res/drawable-sw600dp-port-v13/eqlistsel.png
+SHA1-Digest: nwrjIe9figrnDidJSOJOoWtn/oc=
+
+Name: res/drawable-sw600dp-v13/eq7sel.png
+SHA1-Digest: Yccn/c6n8fp3onPDVYVfLOD4fSY=
+
+Name: res/drawable/revert.png
+SHA1-Digest: qFZyaN27XO8cFbmNWwxr3Otjc2k=
+
+Name: res/layout-ldrtl-sw600dp-v13/fraggraphicvisualizer.xml
+SHA1-Digest: UNtEyG9JWUwiy0pyumUICeAal0A=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: UMZtGMzkE0JkWRYZHIOZQHsTI7A=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: BPFqzGTyYtei6V9BHnQp1YHoJ98=
+
+Name: res/drawable-sw600dp-v13/switchon.png
+SHA1-Digest: rpeJHn7cPpkuwotk/Nfky/hIm/k=
+
+Name: res/drawable-sw720dp-port-v13/eq_thumb_touch_state.png
+SHA1-Digest: Bav3oaHhqvQ2pVSoOAyIerJ9z8A=
+
+Name: res/layout/tooltip1.xml
+SHA1-Digest: PotvXZafyydFYDSFYkmb40kedcg=
+
+Name: res/drawable-sw320dp-xhdpi-v13/btn_scroll.png
+SHA1-Digest: +4DKfItxel2yDo7bWGItO60eh4k=
+
+Name: res/drawable-sw800dp-port-v13/eqlistframedis.png
+SHA1-Digest: PrJ90wAhKgwNZ4Jly2aWlNL18r4=
+
+Name: res/drawable-sw600dp-v13/profileblank.png
+SHA1-Digest: lDzp8qJUczx0JocAEvp2cJlyeQA=
+
+Name: res/layout-sw800dp-port-v13/main.xml
+SHA1-Digest: wUHjm7i2W3Fk7tYvpV/chrxs35g=
+
+Name: res/layout-sw360dp-land-v13/explore_dolby_atmos.xml
+SHA1-Digest: ljXaxKvbkRoS2lK4wfcu5fWWVsM=
+
+Name: res/drawable-sw800dp-port-v13/eqlistframedis_ldrtl.png
+SHA1-Digest: P78HlQDMT0Z8LH7pd2xz4rDzFKo=
+
+Name: res/drawable/eqlistbkg.png
+SHA1-Digest: W8ZRhcvfLALaMRhCcu3vzPzfg0A=
+
+Name: res/drawable/off_bcolor.png
+SHA1-Digest: eApIB3KI/8yQRG1n4Q+Tn5kBKOM=
+
+Name: res/drawable-sw320dp-xhdpi-v13/switchdis.png
+SHA1-Digest: nOo85MvP2qzfcP+NCzal7J4ZRZc=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/preset1dis.png
+SHA1-Digest: kTopYkWV5l0oPIsFa18jAh/elNo=
+
+Name: res/layout-sw360dp-land-v13/fraggraphicvisualizer.xml
+SHA1-Digest: F+QKv5YV99vzT8j6jFxkUb7H93g=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/fragpower.xml
+SHA1-Digest: w5HivQ37Nf8BxvUTmrJIs9sqdlM=
+
+Name: res/layout-sw720dp-port-mdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: CoNKDBnWpEfdUgooNYN0wo49SY4=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq4.png
+SHA1-Digest: 9sxA+eWLzjn8nBMONGgcUBMIlMA=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/fragpower.xml
+SHA1-Digest: l0L6eNU+649gRag4T7osmRn4es8=
+
+Name: res/drawable-sw720dp-port-v13/profilesbg.png
+SHA1-Digest: cemVwrsCvk6qNaNkute2dke73vs=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: CtEwsBxjyJrWWnL9J7VrgWd3FFg=
+
+Name: res/drawable-xhdpi-v4/stop_on.png
+SHA1-Digest: lE4syYmgjN7dVc9JkgCG9tnd0UI=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: ilwWca+Xes+OH80FM87wCL/0e+Q=
+
+Name: res/drawable-sw600dp-port-v13/bg_dolby_atmos.png
+SHA1-Digest: EGB0KcGvmzeOOV43PCFDmxIz+SE=
+
+Name: res/layout-sw600dp-port-v13/main.xml
+SHA1-Digest: 2gPsTfTAr21qwwXbFSIuPiQNIB0=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/switchon_ldrtl.png
+SHA1-Digest: cWVodVnB5wX6Qz62yDmA52eq3oM=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/fraggraphicvisualizer.xm
+ l
+SHA1-Digest: RzwrLQaEJXhUtZhAiGDz5Ng7I+c=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: ZR7/AP8yuCThNgT9ZSS82ZamZYk=
+
+Name: res/layout-sw600dp-v13/fragswitches.xml
+SHA1-Digest: XSaACYzgrzPA1RNvpz/aKpmYk3g=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq6.png
+SHA1-Digest: CmSga5BpeX9/+kEKoJ70X8JQbUU=
+
+Name: res/drawable-xhdpi-v4/eq_thumb_touch_state.png
+SHA1-Digest: ge2R0zyPCF31rqaRUMRz5F6hNqQ=
+
+Name: res/drawable-xhdpi-v4/replay_off.png
+SHA1-Digest: 3FadlzvkW1mCQ0MfJUEKBsV9AUI=
+
+Name: res/drawable/eqlistframe_image_ldrtl.xml
+SHA1-Digest: JNbd5fGwgfA55gZjONyMB5nf8eE=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: J9VJ6bG7KMlRDneZNani+BcvqRk=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: 4EYhcsljAUsD9QV7pj+NJo3K0jM=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/preset_list_item1.xml
+SHA1-Digest: J28dOsDP5W3kh7WwWEtrIZyNtLM=
+
+Name: res/layout-sw720dp-port-v13/preset_list_item0.xml
+SHA1-Digest: fdxFU6Hll26k9e9UEB7+ARExdzY=
+
+Name: res/drawable-sw600dp-v13/eq7.png
+SHA1-Digest: jq3Sgg00aW26sciGmo/cIS7havc=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: 6OLCfEadaGp9L1HEhkklzeUF5/A=
+
+Name: res/drawable-sw600dp-land-xhdpi-v13/eqlistsel.png
+SHA1-Digest: huepHahUiG68zWnytBDHiHLsrPk=
+
+Name: res/drawable-sw360dp-xhdpi-v13/bg_dolby_app.png
+SHA1-Digest: imQqrjpvX+9V4I7Uv2pG2DsIQ28=
+
+Name: res/layout-sw320dp-land-v13/preset_list_item.xml
+SHA1-Digest: jxUP1VZeBY71UYlC4TQivM7meKk=
+
+Name: res/layout-sw320dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: YV41yfzFM6VfevS+oGY1YcSHbsc=
+
+Name: res/drawable-sw800dp-port-v13/topbackground.png
+SHA1-Digest: jy9g1lO1pPg4v9Lmvpc7Wlej3h8=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/fragequalizerpresets.xml
+SHA1-Digest: hvM4nsKUQ8cBuuv/W951gVd85D0=
+
+Name: res/drawable-sw720dp-port-v13/eq_bar.png
+SHA1-Digest: psykONgUIxCkxXmRRUdsimi9TbI=
+
+Name: res/drawable/switchoff_ldrtl.png
+SHA1-Digest: xc6ESRTexWBgOrTT7j4NYhg/+9A=
+
+Name: res/layout-sw800dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: 9kUmnIfLxKU88Q3NDEVz1kmkumU=
+
+Name: res/layout-sw360dp-port-v13/eqlayout.xml
+SHA1-Digest: PccDdhUKw2uTF2SrgwUt9cYEGgs=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq_thumb.png
+SHA1-Digest: 7lSAIqr1T3/iQUQECy4EZspuKls=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/fragpower.xml
+SHA1-Digest: 55W/0atmGH9GO7LlnQ/Pd4HG6G8=
+
+Name: res/drawable-sw600dp-xhdpi-v13/musicoff.png
+SHA1-Digest: GemSOQA4fXnuz1XDJZLeFQ5r16M=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/gameon.png
+SHA1-Digest: LAHElxaiz5XsMJ0WrcfMTl55ip8=
+
+Name: res/layout-sw320dp-land-v13/fragprofilepresets.xml
+SHA1-Digest: RziXFoM9V4mIN8SPxEoP8XzqV0U=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: qTc+Jd7Pv645FS042qZD2lp0eT0=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq2sel.png
+SHA1-Digest: 1h39U2I3BANehzI7rbpyqPg/R1o=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: TUp/LGx9c4Pa3kuH3sy4uIuILDk=
+
+Name: res/drawable-sw360dp-xhdpi-v13/moviedis.png
+SHA1-Digest: JOrTZ+YSYlbePjk/lrHkkviE6u4=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq3sel.png
+SHA1-Digest: Jsyd1LOKiN4tS68IKUGep/KO0vE=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: IfDCUreVGeezN0wekz7rWZKHjXc=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq4sel.png
+SHA1-Digest: 1t9Y1IFIaQMyA3nSSPIVpu/nl5c=
+
+Name: res/drawable-sw600dp-port-v13/topbackground.png
+SHA1-Digest: p6m4MQQOPkfTs6hEjaeajPCLJ4g=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq3dis.png
+SHA1-Digest: lB9BgNmZc7FDWC+/f2obF88N9bM=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/preset1on.png
+SHA1-Digest: +xn1UMZ+H6T052DEVOwQ7w3HXts=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq4dis.png
+SHA1-Digest: PPzAEmsCqEHMvF4HG6lEw028AAY=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: e0FcM55sLoXEnZ19PpJCTIWfyE0=
+
+Name: res/layout-sw720dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: c616C8RLcj3dh9Hj6qp8fIVT6sI=
+
+Name: res/layout-sw800dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: gvP1FRpv03WhfBDtnRtJl3oz9Rg=
+
+Name: res/drawable/eq_custom_bkg.xml
+SHA1-Digest: fiJQFK33+2OWqbtcEL6nIlMPIwQ=
+
+Name: res/drawable-sw360dp-xhdpi-v13/power_on.png
+SHA1-Digest: +2nefdqUr3H6LWwTCWgcp0r+UV8=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/fragprofileeditor.xml
+SHA1-Digest: NQHfDQwscILzbYkgIxcirFQ8eJA=
+
+Name: res/layout-sw720dp-port-v13/preset_list_item1.xml
+SHA1-Digest: VlwuEDMI9/9pMeyV18SzHuF2Xak=
+
+Name: res/drawable-sw600dp-xhdpi-v13/power_on.png
+SHA1-Digest: hmkpRwem44c146Ff6w/XDCYLjQM=
+
+Name: res/drawable-xhdpi-v4/blackframe.9.png
+SHA1-Digest: kfMx4dlLDU5XQyI989RXoGXCEG4=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_9.png
+SHA1-Digest: t4sFxAagCOmeoRoHlBfaK5lElbU=
+
+Name: res/drawable-sw360dp-xhdpi-v13/movieoff.png
+SHA1-Digest: 5u8zOkxcjl1VQklMj8NA/ObH5jI=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: z4qTajL1O5b1okne0CjUQpOEZQY=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: 1PyOErPgXB7UIyp8z515ngnVneo=
+
+Name: res/drawable-sw360dp-xhdpi-v13/btn_goto_ldrtl.9.png
+SHA1-Digest: t2WlBW34jbnH6LsdoGk5hVbpbqE=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: h97DOoeWXdwUrmQCmPO3Rd6oRsw=
+
+Name: res/layout/tooltip2.xml
+SHA1-Digest: cJSER03ZWG1VBjaL4+A26skGNps=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: m3AJKJg/MAh5s5JWVE4poaxjcik=
+
+Name: res/drawable/tooltip_arrow_bottom.png
+SHA1-Digest: IGlxx73E30LY7EYGlAVwFT/hK8E=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/videoplayer.xml
+SHA1-Digest: 69kcOHbhimCCUnFOGLoEguBIaXI=
+
+Name: res/drawable-sw720dp-port-v13/voicedis.png
+SHA1-Digest: xcgHGm5I3GZ4K4CoPE4Ar9k8+6I=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/switchoff.png
+SHA1-Digest: 8EyKjgniBhUqjwMmUv6QOqDiIpg=
+
+Name: res/drawable-sw720dp-port-v13/btn_goto.9.png
+SHA1-Digest: n2FtmEMPaFvwIaK1WX0j/r8JUe8=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: lw7odXhEqt+m0Uk7lRyoyczWM2c=
+
+Name: res/drawable/icon.png
+SHA1-Digest: q7x8UcKif5R8KiD4yZtohtx/+xo=
+
+Name: res/layout-sw360dp-port-v13/fragswitches.xml
+SHA1-Digest: krn5AK6x4IgBco1a3yZFMHfZd+o=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq5.png
+SHA1-Digest: 63qfGBgtLzmQ299jMi4t8glppnQ=
+
+Name: res/drawable-sw480dp-hdpi-v13/btn_goto_ldrtl.9.png
+SHA1-Digest: Krh7no8neV+HspdV/dZVKyA3W74=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq2dis.png
+SHA1-Digest: orPVaGwxZPe7O82TadQ5eBTSVPM=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/equalizer_list_item.xml
+SHA1-Digest: DR7UFSVT/BL8H+Z6aeCXn0sWFDI=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: sr6vteL7WV9igw0rnNWmMwIPgOA=
+
+Name: res/drawable-sw600dp-v13/voiceon.png
+SHA1-Digest: btqerR7E8Xs7uW5QvRk3XvjEBS4=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq3.png
+SHA1-Digest: JszqpuEt4IpM99lMiqpfOJOjQzI=
+
+Name: res/drawable-sw640dp-port-v13/eqlistframedis.png
+SHA1-Digest: dI0NHyW1uNZQItJO12L1jhjvYtQ=
+
+Name: res/drawable-sw600dp-xhdpi-v13/movieoff.png
+SHA1-Digest: dei70oi3ZhE02sUgQEB3DHojfk4=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/preset_list_item1.xml
+SHA1-Digest: YKXxFkIZWHkm7k9BEA4vYoLqlYk=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: +ba1pB2BCdKivLtn/HpOYtfsWv0=
+
+Name: res/drawable-sw720dp-port-v13/preset1off.png
+SHA1-Digest: UlPCC+se+BjVvas4Lck/IZlW1SI=
+
+Name: res/drawable-sw320dp-xhdpi-v13/movieoff.png
+SHA1-Digest: 8Z3jZWZ2t4jJWCOL9vmY4l/dLvM=
+
+Name: res/drawable-sw320dp-xhdpi-v13/preset2on.png
+SHA1-Digest: BTevn4ZzCYWcKXQP+2l9zjEQm64=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: K48gu5Iyov/vWyiOFSfxe+Afc3E=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: mYY/xrEGL469iVHBsVPhOATH7ds=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/switchdis.png
+SHA1-Digest: ReLTJgPWFK87Kv/t1+lMcn8Un/E=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/musicoff.png
+SHA1-Digest: SL09BoZnHsbZISgbLorhq8NTPH4=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/switchon.png
+SHA1-Digest: W6Hzqh8HtKUZLt0rHbr4XkEULWU=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: y9R5gr1USt1aJvt+ekQdb6x6rwM=
+
+Name: res/layout-sw360dp-port-v13/videoplayer.xml
+SHA1-Digest: yoUSRgKzbEMd4MmqNfO17TbIlgw=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/preset1off.png
+SHA1-Digest: cKk9dHrX+QpZlSf9h3ks6E47BA0=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/preset_list_item.xml
+SHA1-Digest: avZuuZJUzxsXHVGcuO002OkKmyU=
+
+Name: res/drawable-sw720dp-port-v13/dslogo_splash.png
+SHA1-Digest: YoBxMwmGNm/y7W4iNtuWpWxF5dU=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: v3kYs3fDpkrw4ZEuuoAGnYKxpH4=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq7sel.png
+SHA1-Digest: LQ83uUMEurFBlettcbseu8w1tLY=
+
+Name: res/layout-sw720dp-port-mdpi-v13/fragswitches.xml
+SHA1-Digest: MpGok1N4zAe51GJUuiBGwGpZxgY=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq7dis.png
+SHA1-Digest: 2Sa+i+9X9AsWHPgsIGqI2zXuTKA=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/preset_list_item0.xml
+SHA1-Digest: ccf+NNpAdwms1/LvCqN5zsgLkiw=
+
+Name: res/drawable-sw320dp-xhdpi-v13/preset1on.png
+SHA1-Digest: aD+f+oloR9rnst0IU+gcBbmb65Q=
+
+Name: res/drawable-sw640dp-port-v13/eqlistframedis_ldrtl.png
+SHA1-Digest: AV/8vUtTIrWzBBc+eXcsw3CYBkI=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/dslogo_splash.png
+SHA1-Digest: tTSQIZYu0rfD4i6LJ/GH79g/Nzs=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/fragpower.xml
+SHA1-Digest: PWOugvR8vaIfMrJVkg3ob7nBuv4=
+
+Name: res/drawable-sw600dp-xhdpi-v13/musicdis.png
+SHA1-Digest: fuxnGWL1gOlj4mHUJzTw4E5lAyU=
+
+Name: res/layout-sw360dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: E4HA2BUELxI0c7eAjgfaxI9QXmc=
+
+Name: res/drawable-sw320dp-land-xhdpi-v13/eqlistoff.png
+SHA1-Digest: 3JnVP3IbzwP83i6fuLubxud7eiQ=
+
+Name: res/drawable-sw600dp-v13/revert_profile.png
+SHA1-Digest: Es0Idr2u60WpbkDaQxlGl1tWnKk=
+
+Name: res/drawable-xhdpi-v4/eqlistsel.png
+SHA1-Digest: dRKO8YIYLc7Tp3POJki1D+doXWE=
+
+Name: res/drawable-sw360dp-land-xhdpi-v13/topselectedbackground.png
+SHA1-Digest: /zW8AbMO/Z4J1PrfJt2bJHMRl5A=
+
+Name: res/drawable-sw320dp-xhdpi-v13/power_on.png
+SHA1-Digest: NqQI0m099n2WwglaPvKvONsnmuM=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/power_on.png
+SHA1-Digest: Szt844rTZuIJWK2p6iKWvevx2Y8=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/main.xml
+SHA1-Digest: YWAQGuBMx2ykIFb8ooCZFj0beNQ=
+
+Name: res/layout-sw360dp-land-v13/fragequalizerpresets.xml
+SHA1-Digest: In1PjsGxNrr8McyjTliNimtY3xE=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/preset_list_item0.xml
+SHA1-Digest: 3wStZ2tWJADTuavpvZLxmnarKlQ=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: hgIHP8AYoNhnzUiO1zn16IjXRqg=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/revert_profile.png
+SHA1-Digest: VRe4AcaTwSvd4eO2GYVOGvObGA8=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/fragequalizerpresets.xml
+SHA1-Digest: scdRBMFpp6oL6r40A2CULJrtezA=
+
+Name: res/layout-sw320dp-land-v13/fraggraphicvisualizer.xml
+SHA1-Digest: MuTcDHRDQDg5pPPbXxLVh2+cKas=
+
+Name: res/drawable-sw600dp-xhdpi-v13/voicedis.png
+SHA1-Digest: 4qwD9/x/BZlP9EOBrwMSernHjzE=
+
+Name: res/drawable-sw600dp-v13/musicdis.png
+SHA1-Digest: 6DyalZ1ayMX/0Kd3kN5rKikTXUk=
+
+Name: res/drawable-sw320dp-xhdpi-v13/preset1off.png
+SHA1-Digest: 62Cn5vjhyx9uzXj+xhJhKBXcvsw=
+
+Name: res/drawable-sw360dp-xhdpi-v13/switchon_ldrtl.png
+SHA1-Digest: Ti8pOIN3qr6iB2i3SiRuyb3HYFQ=
+
+Name: res/drawable/blueframe.9.png
+SHA1-Digest: oBY2OlusI0eYzz8hAQFowtJ8FYc=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/preset2dis.png
+SHA1-Digest: wm7zOwj6lKfPojlNUL16luvCQcQ=
+
+Name: res/drawable-sw360dp-xhdpi-v13/dslogodis.png
+SHA1-Digest: TgcWgg8f0v+QGKLd9feE2dZ90dk=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/eqlistframedis_ldrtl.png
+SHA1-Digest: HuGXiq9LOXdDs9yiXz+zTJNBkO4=
+
+Name: res/drawable-sw600dp-v13/eq1.png
+SHA1-Digest: Qnty5yUF1duNfKZaDKnCzUNuY5Q=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/fragpower.xml
+SHA1-Digest: OvkJNAUF6ZTtbjP/Z2WqbFzD3Gc=
+
+Name: res/drawable-sw600dp-xhdpi-v13/switchon.png
+SHA1-Digest: lFU78d7SXJMFK+OYLKikl/cjTlg=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/movieoff.png
+SHA1-Digest: 9T6wI7jTZe7NXRwPhIUujb8bCno=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/fragswitches.xml
+SHA1-Digest: Fen2TtN4B5qv9+fN3VnXFjRnhMc=
+
+Name: res/drawable/replay_off.png
+SHA1-Digest: whl6R1A3HpZ6Zh8VStt+tTQ7Mys=
+
+Name: res/drawable-sw720dp-port-v13/eq5sel.png
+SHA1-Digest: CB1SYpAl0IjH4rVYiHec0k+upLY=
+
+Name: res/drawable-sw600dp-xhdpi-v13/gamedis.png
+SHA1-Digest: RUa5LLErNPAj+3qyGPKYjCtcx70=
+
+Name: res/layout-ldrtl-sw600dp-v13/splash_screen.xml
+SHA1-Digest: 7wHsH9FhmNsrzMO2SVyYX/7iq/I=
+
+Name: res/color/text_color_green.xml
+SHA1-Digest: LXJTm6Kr+NyvPv5yC7qly+P5TFg=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: 0KCf7qZtTJD/QIsFvvfUErx13XQ=
+
+Name: res/layout-sw800dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: fLrBnsvxRc3Xko1wCmCjRO37upc=
+
+Name: res/drawable-sw600dp-xhdpi-v13/switchon_ldrtl.png
+SHA1-Digest: Bmd78vOlGQ361jE7NRaI0ihgqj8=
+
+Name: res/drawable-sw600dp-v13/preset2dis.png
+SHA1-Digest: 7HjRVVSwleXMNTX3Xg+0V982ddI=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: TFioN7DAlRNoXDljEwCgdbSlmdI=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/btn_goto_arab.9.png
+SHA1-Digest: lBFR9iyUG/zlwcYtwMe1xc0ADew=
+
+Name: res/layout-sw360dp-land-v13/preset_list_item1.xml
+SHA1-Digest: bH5OXSReMX90IOdQHVL09Q7F2ds=
+
+Name: res/drawable-sw360dp-xhdpi-v13/musicoff.png
+SHA1-Digest: pLItI/65FGqA2GdLLkyDGV1rvcM=
+
+Name: res/drawable-sw360dp-xhdpi-v13/power_off.png
+SHA1-Digest: P9BYvCHOexBqIUYvtN4fWJX1g1I=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq1dis.png
+SHA1-Digest: lhZUw4uTjShkw0Ng3NdXJbpFfQI=
+
+Name: res/layout-sw600dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: 0ut3OGIvxXs8Yoy84liw3+ATsls=
+
+Name: res/drawable/on_bcolor.png
+SHA1-Digest: gag0J0NEFoJib66K74ZPsHZCLfY=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq7dis.png
+SHA1-Digest: +vfft0m3rFiOJ8KtSWzC+ej0mUA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ZeB3U9cLHRtyEpyGfqk957Y+ccA=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: xuX20iBZXAo9YkW8UswI+/2o4tQ=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq7.png
+SHA1-Digest: 3MiFMQDbh+em+GeCAMQnduhySJA=
+
+Name: res/layout-sw320dp-land-v13/videoplayer.xml
+SHA1-Digest: BNP0DaLgpn/jimnGHCr22pSKUx8=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: WM01PufnleGeI+kKKs/2zmNoxI0=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: jzkfuXxhCREj8q1ssXWL0jI3fc0=
+
+Name: res/layout-sw800dp-port-hdpi-v13/videoplayer.xml
+SHA1-Digest: odyZwR3Zpegzpqb84zUlzbNgbrg=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/moviedis.png
+SHA1-Digest: EbUGyZJJ+VdpdfRMgawuNF2ARxk=
+
+Name: res/drawable-sw800dp-port-v13/dslogo_splash.png
+SHA1-Digest: vNUj3Cm1fBKvt/T/TVpDCygpUxQ=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: oN2srBtIDazUrf3LlPoyD03QzQY=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq5sel.png
+SHA1-Digest: 2BENJiUR+ZcNBjBDbdKgzCbcGGE=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq3sel.png
+SHA1-Digest: T3GW3yBG0rszAV1CE6yXedZUgFM=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/splash_screen.xml
+SHA1-Digest: LhhuyK7Qc4rGqIynyGkZ6msUORE=
+
+Name: res/drawable/tooltip_border_7.png
+SHA1-Digest: qQ/xg0XCLBcHFutPdLgSCf+mEcQ=
+
+Name: res/drawable-sw360dp-xhdpi-v13/preset1dis.png
+SHA1-Digest: bc1Y4BeM42sUHEam9yol3gqDcnQ=
+
+Name: res/drawable-sw720dp-port-v13/eq4dis.png
+SHA1-Digest: ExQd/NyCW+ySJiHkGR4aBkR9Wok=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/preset_list_item0.xml
+SHA1-Digest: JsvKi5ZP4Ca2eaU35go2rbfUdZ8=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/highlight.png
+SHA1-Digest: tJauzlfSSr7imqZ0SBoJXHDKPSw=
+
+Name: res/drawable/topbackground.png
+SHA1-Digest: RfP4JuWt02PBd4G3w2pRjFMQ8L0=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/switchdis_ldrtl.png
+SHA1-Digest: y+YltGE4zGffKxuF6hISjU4hWBw=
+
+Name: res/drawable-xhdpi-v4/tooltip_arrow_bottom.png
+SHA1-Digest: 3k8teyd3XfxoWDZJYI4oCTqHR4k=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/preset_list_item.xml
+SHA1-Digest: BDWJnHanwF5hbDZQFpJqhPdCTHI=
+
+Name: res/drawable-sw320dp-xhdpi-v13/switchdis_ldrtl.png
+SHA1-Digest: qzRjmsddDCGB15uhnoHsSa1XX4A=
+
+Name: res/drawable-sw600dp-v13/btn_scrollup.png
+SHA1-Digest: Kakf/n2U5SvHpY1vKrBknGWqro4=
+
+Name: res/drawable-sw600dp-v13/dslogo_splash.png
+SHA1-Digest: es/YQmTP3Gugc2ggE57izhiwbwY=
+
+Name: res/drawable-sw720dp-port-v13/switchdis_ldrtl.png
+SHA1-Digest: IFe79g+CH8WkSBeeLldy7hGtpfw=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/main.xml
+SHA1-Digest: nLF2u0qqXE1jaCwPqDtS+qADovQ=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: HbN3CXDvRuI7570uU9djruDcZyg=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: el5EncTvfVcCzd9BWImGb2GO42s=
+
+Name: assets/fonts/DolbyGustan-Medium.otf
+SHA1-Digest: 8dcYVkiIOH/LSTnFfId+IAh8im4=
+
+Name: res/drawable-sw600dp-v13/eq_bar.png
+SHA1-Digest: +Wj+DOQmvMNBaMzq/SaLPGXu528=
+
+Name: res/drawable-sw360dp-xhdpi-v13/profilesbg.png
+SHA1-Digest: C2dGP7itp/teHjNHuEqn/IFSns8=
+
+Name: assets/instore_demo_autopilot.xml
+SHA1-Digest: 0n2USfLV+Gjf43cQZvjno+uB36E=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/profilesbg.png
+SHA1-Digest: 7TH6qqAmHQkcMxKrTYCuIlrdqgI=
+
+Name: res/drawable-sw600dp-land-xhdpi-v13/eqlistframe.png
+SHA1-Digest: wfb9svLRQuXvk5ZEek5aTL9RnQc=
+
+Name: res/layout-sw600dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: PuRT+Awcl5SU2ttMatisfVj/Se4=
+
+Name: res/drawable-sw600dp-v13/eq2.png
+SHA1-Digest: kI0f+PL7AENW/jq/acV3o3CwDss=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: PLGVG+b9mGfvwagzORAfRFpLIro=
+
+Name: res/drawable-xhdpi-v4/mock_gv_brick_blue_light.png
+SHA1-Digest: cCkK1LyQ0Ss1X6JSdBwK3Jeeldo=
+
+Name: res/drawable-sw360dp-xhdpi-v13/musicon.png
+SHA1-Digest: Pw+jQzKlAb8mFQhFB2kE3zf825Q=
+
+Name: res/drawable-sw600dp-land-xhdpi-v13/eqlistframedis_ldrtl.png
+SHA1-Digest: 0YKOk1899vuYyGRTkTI+9yHK+Sc=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: cbgOZfD+EwKlXmY9XOYfYX8m/ZU=
+
+Name: res/drawable-sw320dp-xhdpi-v13/moviedis.png
+SHA1-Digest: 4UW2XTFYACX39WDNk0hv8TVXb74=
+
+Name: res/layout-ldrtl-sw600dp-v13/fragexploredolbyatmos.xml
+SHA1-Digest: W8XKP04CqNtG4ymLCUwRgIKFZwo=
+
+Name: res/drawable-sw720dp-port-v13/musicoff.png
+SHA1-Digest: Eja1m/+XOwtcB7VhWdZ9K4HIkis=
+
+Name: res/drawable-sw600dp-xhdpi-v13/btn_goto_ldrtl.9.png
+SHA1-Digest: 0OwKDTkaYOdpNAtAwGWbHS1fYYw=
+
+Name: res/drawable-sw600dp-hdpi-v13/bg_dolby_app_13.png
+SHA1-Digest: jKQeDhxcfUbgSe/EMNeKZUgGTHg=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq2dis.png
+SHA1-Digest: d9ExMDqJTup5wp+Mgr1JO1BoqO8=
+
+Name: res/drawable-sw320dp-xhdpi-v13/preset1dis.png
+SHA1-Digest: wHxHkUys1Uj8MeDxPbDb9j4m1dI=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/fragexploredolbyatmos.xml
+SHA1-Digest: Qg1Yu/BIFPullelY1LfwNOSK1Qs=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/videoplayer.xml
+SHA1-Digest: E1Fjs5IWx0gVxOv/Af9zuL9/Elg=
+
+Name: res/drawable-sw600dp-v13/eq4dis.png
+SHA1-Digest: p0Dy+WvJ1SrMh5dXPLmpOtCEOTU=
+
+Name: res/drawable-sw600dp-xhdpi-v13/gameoff.png
+SHA1-Digest: UrbFmz1GTKJmbpdGOEJWyR7QSlo=
+
+Name: res/drawable-sw360dp-xhdpi-v13/highlight.png
+SHA1-Digest: IrndNaqxnH/8EARa2Fjq8RCCl2Q=
+
+Name: res/drawable/tooltip_border_1.png
+SHA1-Digest: 1LgMx3RGnpiBwTHsdPjUhE5+ths=
+
+Name: res/drawable-sw720dp-port-v13/eq1dis.png
+SHA1-Digest: //a8Z5Q73DiZGKJtmgMSVs3QdQc=
+
+Name: res/layout-sw600dp-v13/splash_screen.xml
+SHA1-Digest: vbWylUgnmgCqUzqLUfJndxBC5CI=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/preset_list_item0.xml
+SHA1-Digest: pi9tRQcLosQXpxX4Ti1YZImxP84=
+
+Name: res/layout-sw720dp-port-mdpi-v13/fragprofileeditor.xml
+SHA1-Digest: pQK8Zh4WvV4U3Hoy75HLkmI4bG4=
+
+Name: res/drawable-sw600dp-port-v13/eqlistframe_ldrtl.png
+SHA1-Digest: DT0/M0pZRECmvCFVk0VeoYwM610=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/main.xml
+SHA1-Digest: n/+MK+C2T56P/FQzUQxtbKYse6M=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/videoplayer.xml
+SHA1-Digest: 0YxzcXZ+kvV6pYehZAaLoQApYb8=
+
+Name: res/layout-sw720dp-port-mdpi-v13/fragpower.xml
+SHA1-Digest: eH4GndbZMBM4XihPzSv3+aUhU5A=
+
+Name: res/drawable-sw600dp-v13/musicoff.png
+SHA1-Digest: NyTgTKFF7mbxRbKzcMQWrcYOtPQ=
+
+Name: res/drawable-sw480dp-land-xhdpi-v13/btn_goto_ldrtl.9.png
+SHA1-Digest: UVaxHpPRLBwPUwe1A7WFQ/yURDI=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/preset2off.png
+SHA1-Digest: 5STKJ+6+skgBX1w8RFzL82TZi60=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/main.xml
+SHA1-Digest: uyztNvke6FvMFdGkHXcdwK0xk1w=
+
+Name: res/drawable-sw720dp-port-v13/voiceoff.png
+SHA1-Digest: 3W5RvwGJlg4fa348ypy2S/Xl+xM=
+
+Name: res/drawable-sw360dp-xhdpi-v13/switchdis.png
+SHA1-Digest: P12QPS0MvKVGiHthHTrcrmVcurY=
+
+Name: res/layout-sw720dp-port-mdpi-v13/splash_screen.xml
+SHA1-Digest: +7IuzzNOo4LsgKvpayW7Y+G2uBU=
+
+Name: res/drawable-sw360dp-xhdpi-v13/preset1off.png
+SHA1-Digest: e5j4Q49foVXBVTnZs71cZXRJEFw=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: s7KDy0uWqwdMNJdSwFGpcQ2z2x8=
+
+Name: res/drawable-xhdpi-v4/revert_profile.png
+SHA1-Digest: uLlfN2hw2C9YsAhDj31/v1d39oo=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: EH8FCMXgQNypm93WTycjlthh16c=
+
+Name: res/layout-sw320dp-land-v13/preset_list_item1.xml
+SHA1-Digest: AGhU53rBCASj9A9pRtxc/iVj+LA=
+
+Name: res/drawable-sw720dp-port-v13/musicdis.png
+SHA1-Digest: v2rNYmNXYs4RCablhXwrHBw7BMY=
+
+Name: res/drawable/mock_gv_brick_blue_light.png
+SHA1-Digest: sRPttnaV7BIf8Vl7ggZIzMT7kEs=
+
+Name: res/drawable/topselectedbackground.png
+SHA1-Digest: S8YOW8aakq4kT254uzuPubqvFeA=
+
+Name: res/layout-sw320dp-port-v13/fragswitches.xml
+SHA1-Digest: lNgiEd4F7GzOVo0TfD7vjkMV6ns=
+
+Name: res/drawable/switchon_ldrtl.png
+SHA1-Digest: zsZPqPcuZXDLqp/8GKxDHIzMuqc=
+
+Name: res/drawable/tooltip_border_6.png
+SHA1-Digest: nzogD8Kb/NL0GNwuPM7yqEpI1JU=
+
+Name: res/layout-sw800dp-port-hdpi-v13/fragprofileeditor.xml
+SHA1-Digest: tFYPhc0pLCWnJgigmaDDxCM6Vq0=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/power_off.png
+SHA1-Digest: BN/3TUdxFcAdBvaAau/UYLwM+C0=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/splash_screen.xml
+SHA1-Digest: dtxq07eTJSS+7IbXarL88dWUuAw=
+
+Name: res/drawable-sw600dp-xhdpi-v13/btn_goto.9.png
+SHA1-Digest: M/I2zdd5viAbSmgRPDexc6XIxfA=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: Tw3/yAQHDmpV81A9is0lZe+od+M=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/preset_list_item1.xml
+SHA1-Digest: vGyOP52jr8qtw+d8du57dWBWDTw=
+
+Name: res/layout-sw360dp-land-v13/videoplayer.xml
+SHA1-Digest: T3agu7BTpFI9teldzc1QGSpPvkM=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/dslogodis.png
+SHA1-Digest: pLeeS7WiXN1Na0KntSKqOcbJrRE=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/fragswitches.xml
+SHA1-Digest: Ij9+pEBlS6y5NzaG9JbGRtnJij8=
+
+Name: res/drawable-sw600dp-port-v13/eqlistframe.png
+SHA1-Digest: pksy+cSFPB9bavjAEO9bEh8TQhA=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: XR9OyxsrHg/mHRmo5LAe4iwhhrw=
+
+Name: res/drawable-sw600dp-v13/eq_thumb_touch_state.png
+SHA1-Digest: ZaMLGLwm1WJGJK2plHfvtJh8tBI=
+
+Name: res/drawable/switchdis.png
+SHA1-Digest: wzBOMGc8DFDs6ukXBruEhC/WEa0=
+
+Name: res/drawable-sw640dp-port-v13/profilesbg.png
+SHA1-Digest: jUH3vbk3XygZa/jVn86lqdBP+Eg=
+
+Name: res/drawable-sw800dp-port-v13/eqlistframe.png
+SHA1-Digest: YTMSE9G0g3d2A9STCnhoiWRLh60=
+
+Name: res/drawable-sw600dp-v13/voicedis.png
+SHA1-Digest: mrWO8cC8inz2jmKBkh1LIYdbz2w=
+
+Name: res/drawable-sw720dp-port-v13/power_on.png
+SHA1-Digest: Uy2fTlZU2jJUX5bZZ2Tr4gLOtso=
+
+Name: res/layout-ldrtl/vertical_axis.xml
+SHA1-Digest: sT9wdx1XI3hx2OIWDDXyIuP4TQk=
+
+Name: res/layout-sw360dp-land-v13/main.xml
+SHA1-Digest: RiPlGZCXVelmsTkTFRUvOJwXVe0=
+
+Name: res/drawable-sw600dp-xhdpi-v13/switchdis_ldrtl.png
+SHA1-Digest: CIrSagETgLgwY1/1OusOYIq+VKc=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: 28EbFiOTmtGO4r/eP47SmvwCtZY=
+
+Name: res/layout-sw360dp-port-v13/header.xml
+SHA1-Digest: kXLjHgotn8VvAHptGorusHb0UrU=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: hUrixQHSbfaB8u7yDxvDpEiEXZ0=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_3.png
+SHA1-Digest: HmW3Uk8MfuE2S0rEiBmOkKTET60=
+
+Name: res/drawable/tooltip_border_2.png
+SHA1-Digest: d3DDPp/eM+JA1QvXf78tK3n7st0=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: HZ4cGEpvJipGpOZECcq/ozkHYsk=
+
+Name: res/layout-ldrtl-sw600dp-v13/preset_list_item0.xml
+SHA1-Digest: vCMEm5DZoINzUTEpFwzr41JW5FY=
+
+Name: res/layout-sw320dp-land-v13/preset_list_item0.xml
+SHA1-Digest: wOwGxzNatBJH+9Qg948vXAdTD0Y=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/main.xml
+SHA1-Digest: mhUdGMZ/JU8Cx9+PJTFPn6Lyhmk=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: bB2E1liFFJpmiK7sAvctsG9Gq90=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: bF2USvYCxdKFaadIWadOW0Q1ZHw=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/fragexploredolbyatmos.xm
+ l
+SHA1-Digest: gHAKJZecEpbYkNyvYwIOBraAnaM=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: BxD2CQbEEW8gprrbkYEDhREEkuQ=
+
+Name: res/drawable/eqlistsel.png
+SHA1-Digest: zd5aU82qxHFvjrzixaIZSAhQ7KQ=
+
+Name: res/drawable-sw320dp-xhdpi-v13/btn_goto.9.png
+SHA1-Digest: lX3BinJXWaIJ1Dhd4gxtCW/d82o=
+
+Name: res/drawable-sw800dp-port-v13/bg_dolby_app.png
+SHA1-Digest: UPbzZZ1BmX2PiE79oKmrRYSHzkU=
+
+Name: res/drawable-sw600dp-v13/dslogo.png
+SHA1-Digest: 5kCaR/XI1cr4q5BSxLT2uUmnWVE=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: m087ANOBenEzA4bolIfRkUHRuHA=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: IrDBkqSCBMGSkY3B3hEjKKessM8=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/fragprofileeditor.xml
+SHA1-Digest: xn/g4k0FfcfFSjO4HZVSkMcqjjg=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/fragswitches.xml
+SHA1-Digest: dBXGn4zJq+615sN+27zcWHtg2OE=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eqlistsel.png
+SHA1-Digest: FD73H+0S/lgnNh7oIkXzkRxk7cw=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: K2cgvsBh7PTsrM1ssb6EUZJO7Dc=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/videoplayer.xml
+SHA1-Digest: qFPPIV54eMmVx5bYLOEceaXI6pM=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq6sel.png
+SHA1-Digest: 6UnXTbPOjK+KgjAGNucSa4pV0IU=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_6.png
+SHA1-Digest: pgsp0teSTVShydUj7X4GiwJ+xLM=
+
+Name: res/drawable-xhdpi-v4/highlight.png
+SHA1-Digest: vuGIWdQChR98rJpBpTWcuwiIqLU=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/equalizer_list_item.xml
+SHA1-Digest: rZ15Xtv2B84g69zLknpbpGBV8ww=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: a0ZG8XilfaIumG9mAj8BHvTgZSQ=
+
+Name: res/drawable-sw600dp-v13/eq1dis.png
+SHA1-Digest: 7X+81jSkZXXUz2rE4E0Hp/rjkXs=
+
+Name: res/drawable-xhdpi-v4/blueframe.9.png
+SHA1-Digest: ON/miLTOrTsgqsyIVmB0aZVu0tI=
+
+Name: res/drawable-sw600dp-v13/eq5sel.png
+SHA1-Digest: Z5ia6DZ1GcG9RbwcHCnZuzA903s=
+
+Name: res/drawable-sw600dp-v13/voiceoff.png
+SHA1-Digest: xU5ONnsw62mE4HuaKUXGnhqYYU8=
+
+Name: res/layout-sw720dp-port-mdpi-v13/main.xml
+SHA1-Digest: zzV4Ld9swThFN2auy4+Oq1Crkv0=
+
+Name: res/drawable-sw600dp-v13/bg_dolby_app.png
+SHA1-Digest: 2qrjwvaWqtx60lQsfMOnCjt/9ZQ=
+
+Name: res/drawable-sw600dp-port-v13/dslogo_splash.png
+SHA1-Digest: YhwB9me1HNHYkNEO8LCFEqO3NwE=
+
+Name: res/drawable-sw360dp-xhdpi-v13/voiceon.png
+SHA1-Digest: EJ3ABahAdxDhowDbPIYSN5ECQnY=
+
+Name: res/drawable-sw360dp-xhdpi-v13/profileblank.png
+SHA1-Digest: YhKGNRx8Vx+r0W5f+WPiz90TdcQ=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq2dis.png
+SHA1-Digest: xb8Xf/sOetlBwL1koHa1f4N1hb0=
+
+Name: res/drawable-sw360dp-port-xhdpi-v13/profile_bg_on.png
+SHA1-Digest: 3+BcMjmGg8P2AgvA4NFx0JoOa2g=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: +a/Pw2Frgcup0X8Dm3WKYKEvAFY=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: EC7uhfWCRndJ9wgmES1CH7NQn/Q=
+
+Name: res/drawable/sel_revert.xml
+SHA1-Digest: jEi/qT5f01VWrgU4nIaSxG04w3M=
+
+Name: res/drawable-sw600dp-v13/eq3.png
+SHA1-Digest: WL7Wv5nTYJs5mA79GkOK4cUz1YA=
+
+Name: res/drawable-sw600dp-v13/preset2off.png
+SHA1-Digest: pPyFA2OBiCgFWim+SUOkJveZKYQ=
+
+Name: res/drawable-sw360dp-xhdpi-v13/switchoff.png
+SHA1-Digest: ZXSVKZb2OvsL3vu9u7FUi3fEJqE=
+
+Name: res/drawable-sw600dp-hdpi-v13/bg_dolby_atmos_13.png
+SHA1-Digest: 5uL9uOwKSdQ2YXRWF5uss+IJU/U=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: 6BR2gndrhyVQEk0L04Gfr94U2Nk=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/preset_list_item.xml
+SHA1-Digest: TIGydHT1bohvo/1by9nE+f+fcH8=
+
+Name: res/drawable-sw320dp-xhdpi-v13/bg_dolby_atmos.png
+SHA1-Digest: 1DLMI8bMPS0s8JkQfmlcpZ2EqhA=
+
+Name: res/layout-sw360dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: 9mmuNDN3ocn9BrNsh78tEhZ7h3U=
+
+Name: res/layout-sw800dp-port-hdpi-v13/fragswitches.xml
+SHA1-Digest: +mZ0XAuV3rNqKE+jx3v4dcQ2uic=
+
+Name: res/drawable-sw360dp-xhdpi-v13/gamedis.png
+SHA1-Digest: r25Z/5K+xXczjoIUMx21CF2g+r0=
+
+Name: res/drawable/tooltip_border_3.png
+SHA1-Digest: k5m10DDs3MYfYTTPMRz1Zn3rTjA=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: r5ilZmTPN/mAQDRnoPlXhyqpdgo=
+
+Name: res/drawable-xhdpi-v4/revert_pressed.png
+SHA1-Digest: d/wXmQQnbwSlxuiMcB0iwerViFs=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: 3/jmrkAtcC7JCbffqVXrHw/UjoY=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/fragexploredolbyatmos.xm
+ l
+SHA1-Digest: Vy4trM68DgDKULo1hJQpPFw61mQ=
+
+Name: res/drawable-sw320dp-xhdpi-v13/switchon_ldrtl.png
+SHA1-Digest: +5Eep38I+LyZen2DBrYhw5WpeRQ=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq4dis.png
+SHA1-Digest: ZMmx5m24lk2AR/NTWHJflX7Bl2g=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/fragexploredolbyatmos.xml
+SHA1-Digest: Euj024vVNjonL2enNWcm2mVCyU4=
+
+Name: res/drawable-sw720dp-port-v13/btn_scroll.png
+SHA1-Digest: iRtHlLyHL3xDTVBzhhqvCG89tU0=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: iOWsARZ0TNW0t/x2ZnK3jTK4ITo=
+
+Name: res/layout-sw800dp-port-v13/fragpower.xml
+SHA1-Digest: z/qsBAtiYaqK2cMCLlYP3+VcDVg=
+
+Name: res/layout-sw600dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: KJYG/rczjR4FlUBVhBsjMB/6sFQ=
+
+Name: res/drawable-sw600dp-v13/eq6dis.png
+SHA1-Digest: uwLwDZ0sc44zwRBsBTVo7ba3ttU=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_4.png
+SHA1-Digest: KDdmI+vkKv70/GwLnI9WiX6pgto=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: q4VxEevsiuXr+WrOsQqQd/xBRRs=
+
+Name: res/drawable-sw600dp-v13/switchoff.png
+SHA1-Digest: cLAGcX9a0e3lOHdzrX8rmigHcBM=
+
+Name: res/drawable-sw600dp-v13/switchdis.png
+SHA1-Digest: hzgHZKAPjfdRbPe3EhRQ7M4BDmA=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: k1ritNlwYCxxa1tNgkdyNK+Yfcs=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: GOM7KTB/wIXSMwQCXoCeeEB3K84=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/fragequalizerpresets.xml
+SHA1-Digest: MqOjLrJ4oRlG1ViaRIksFCrojec=
+
+Name: res/layout-sw600dp-port-v13/fragswitches.xml
+SHA1-Digest: IMn7mmzuIuehMponAP8V6JHSOxU=
+
+Name: res/drawable-sw320dp-xhdpi-v13/profilesbg.png
+SHA1-Digest: UvowdmW3WI1nqshSSapAYl9OWJc=
+
+Name: res/drawable-sw600dp-v13/switchdis_ldrtl.png
+SHA1-Digest: rHRaR6RE8kF6niU7a1BX2S2fPYQ=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/main.xml
+SHA1-Digest: ekrzwRt/jPcEbN470kfBKwz1hvE=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: HxGzdOarpGtpU9peH7HTvra1UyM=
+
+Name: res/layout-sw600dp-port-v13/fragpower.xml
+SHA1-Digest: WkErUcGk8Snx/XuS7e8CJoXsyok=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq1sel.png
+SHA1-Digest: 2wnnW44lRUdy5EWeBUo5/bXJW7Y=
+
+Name: res/drawable-xhdpi-v4/topbackground.png
+SHA1-Digest: 9/0G1DlefTHJQjC9cR5VXdosleg=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: g68vB2r6kEIPnjGbq45G4emma6w=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/fraggraphicvisualizer.xml
+SHA1-Digest: yfX8kIFBMAXS4cU8o+/WG4estVM=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: YYranQKl0wF3e5adWSqg+NyuGiY=
+
+Name: res/drawable-sw600dp-port-v13/profilesbg.png
+SHA1-Digest: djXBPoiJ6Rp8seht2/ngT/U8uHs=
+
+Name: res/drawable-sw360dp-xhdpi-v13/gameon.png
+SHA1-Digest: 0mmOBeCim6y0v+H2vUrMnsvg3kQ=
+
+Name: res/drawable-sw600dp-xhdpi-v13/switchoff.png
+SHA1-Digest: Z4QW0/BkQ2EtOkjnKg8ySrv+GCw=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: 4zIn1t418THedPIaw5dS6ftfdUo=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq1sel.png
+SHA1-Digest: 52aWAPUIwTni6pMVtrZn4fbSxfM=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/header.xml
+SHA1-Digest: rdktwP0rNdNcxrPlVHnnoOBhT98=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq2sel.png
+SHA1-Digest: PeafkfY6efK++04QoFfCLOeckm4=
+
+Name: res/layout-sw360dp-port-v13/preset_list_item.xml
+SHA1-Digest: hRdUdE4FXRpkiSR/KRCpnhfYvYM=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: pZpjblYywm/TeDPIFUjC9ilc2KA=
+
+Name: res/drawable-sw600dp-v13/eq4.png
+SHA1-Digest: eECPVhZHGvJqt6HNzB/zhnU5l80=
+
+Name: res/drawable-xhdpi-v4/topselectedbackground.png
+SHA1-Digest: MHbcCQh/WJU7QzEnKZmatXWdMY0=
+
+Name: res/drawable-sw320dp-xhdpi-v13/highlight.png
+SHA1-Digest: au5lOIEuRVb70DvS8xBr5eykfbc=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/fraggraphicvisualizer.xm
+ l
+SHA1-Digest: uzTAhrX1jABiB5zi8+A+XUQXGwo=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/splash_screen.xml
+SHA1-Digest: i/5aYWlvMU7P4SKOwD45rQzi2s8=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: 4OzqA9WwaeLMC61ELsGMo5o5hRQ=
+
+Name: res/drawable-sw320dp-xhdpi-v13/btn_goto_ldrtl.9.png
+SHA1-Digest: zJ9HemKz4d7eIW1qWtxTHSvoNBg=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: l9Q5zoGuqBx0/7uy+s1hVOEfje0=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/preset_list_item1.xml
+SHA1-Digest: YjCT3PfnkJbHl2lhHTYSqlFrah8=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/main.xml
+SHA1-Digest: 6nGucPqjUbO0SVPyMCXuDGrj22k=
+
+Name: res/layout-sw720dp-port-mdpi-v13/equalizer_list_item.xml
+SHA1-Digest: F+A0ykW2L4xc/V5aHwHRlpG8bwQ=
+
+Name: res/drawable-sw600dp-port-v13/bg_dolby_app.png
+SHA1-Digest: BPbARu72InnlsTmi7wF3llAEdmA=
+
+Name: res/layout-sw600dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: 67+x+hQPq8NOfH68N6fZZMgNQys=
+
+Name: res/drawable-sw360dp-xhdpi-v13/btn_goto.9.png
+SHA1-Digest: W7rPgcGxgsKt7gSh7joSqH8aB3E=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/fragpower.xml
+SHA1-Digest: zKkepO+6uJrSyDVDj/kgEqhic2Q=
+
+Name: res/drawable-xhdpi-v4/mock_gv_brick.png
+SHA1-Digest: YvvEKZmHJJ+x/Hxi86HLyOnG73E=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_1.png
+SHA1-Digest: 3YUfeYwdBzrKmITzp7oH5w0Nsy4=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: uHKGCihaXhDKfWK1LoeRsEPTJeQ=
+
+Name: res/drawable-sw600dp-xhdpi-v13/power_off.png
+SHA1-Digest: NuCCmhUA4WXwAncm1qKM/IcEmyo=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq1.png
+SHA1-Digest: jm8C3BBA00d8wIzAD/u7DKJ3EWE=
+
+Name: res/drawable/mock_gv_brick_red.png
+SHA1-Digest: iK+xeJSekFqw+woLlYhfyMDRdbA=
+
+Name: res/drawable-sw720dp-port-v13/switchoff.png
+SHA1-Digest: 8Tbm+3qytFaP6jtpjsUE4NFF3tM=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/dslogo_splash.png
+SHA1-Digest: iIFyvIwyA9HVBxaLngbMSeWzT1E=
+
+Name: res/layout-sw800dp-port-hdpi-v13/fragpower.xml
+SHA1-Digest: PHLznMdlWfYy5YfsU+MqQkze94E=
+
+Name: res/layout-sw800dp-port-hdpi-v13/splash_screen.xml
+SHA1-Digest: YTzusz1el4ztbwpXtUaELYY68to=
+
+Name: res/drawable/profilesbg.png
+SHA1-Digest: Az5iqSxovQ0V2aHl/km5IiXBQTg=
+
+Name: res/drawable-sw320dp-xhdpi-v13/profile_bg_on.png
+SHA1-Digest: aEA/1OzwtNIh1s/b/WIT4/FcKUc=
+
+Name: res/drawable-sw720dp-port-v13/btn_scrollup.png
+SHA1-Digest: nsQoPNkT4J+diIfBo33APx5eZeI=
+
+Name: res/drawable-sw480dp-hdpi-v13/btn_goto.9.png
+SHA1-Digest: MX/hsa4vjmtCiFH49Whkurzyud0=
+
+Name: res/drawable-sw600dp-xhdpi-v13/bg_dolby_atmos.png
+SHA1-Digest: Y8Qpde8rTjzp1uAQXbUit2Nx0rY=
+
+Name: res/layout-sw320dp-land-v13/fragequalizerpresets.xml
+SHA1-Digest: qxsynjKSyZtpHxD9IAc4CcoFWOw=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq4sel.png
+SHA1-Digest: mqqE2ABWI72hynNTlAYCeRDrOOU=
+
+Name: res/drawable/revert_profile.png
+SHA1-Digest: MUr1KQX6rX/JqwZejo3+dG8pfoM=
+
+Name: res/drawable-sw720dp-port-v13/eq7sel.png
+SHA1-Digest: lEeuCzRtfEvbjY4ilUJqawOodU0=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/profilesbg.png
+SHA1-Digest: lFCZrl//KmqAbDHVLB6MCsblVz0=
+
+Name: res/drawable-sw600dp-v13/eq6sel.png
+SHA1-Digest: VWh2ypgk89B/8zTPcFbRrnaNnPc=
+
+Name: res/layout-sw360dp-port-v13/preset_list_item0.xml
+SHA1-Digest: a9gbXajepPjtpa0nuEjdx5qaR1c=
+
+Name: res/drawable-sw360dp-xhdpi-v13/bg_dolby_atmos.png
+SHA1-Digest: buf6011EpGgOy6sGzod9Fkjp2Fk=
+
+Name: res/drawable-sw720dp-port-v13/gameoff.png
+SHA1-Digest: 53XvkXB2Ra7PaDwBNlCa/3+hTwA=
+
+Name: res/drawable/profileselector.xml
+SHA1-Digest: PfvG3fLrQX1ICBnipu4pd6YZv8c=
+
+Name: res/drawable-sw600dp-xhdpi-v13/dslogodis.png
+SHA1-Digest: 08M03DPKjopCvFWdYNv7x+ILyHU=
+
+Name: res/drawable-sw320dp-xhdpi-v13/bg_dolby_app.png
+SHA1-Digest: HOnrbsHAMdt4jFgmR6QzWsUUfNk=
+
+Name: res/drawable-sw320dp-xhdpi-v13/profileblank.png
+SHA1-Digest: T6tn+FT+4eDVl7+UBNYr9Iq+2qc=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/fragexploredolbyatmos.xm
+ l
+SHA1-Digest: ARugZ/mLHd6OeCdLDmbzWqm5114=
+
+Name: res/drawable-nodpi-v4/eq_background.png
+SHA1-Digest: qLa/NiycC24aBgyw/bfQPUmQKFE=
+
+Name: res/drawable/mock_gv_brick_yellow.png
+SHA1-Digest: bpovGEZTqAF6QX0GaBmMKiZayZ8=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: CcMMBfgsWRo24hRVZAHGoJTTwMo=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq3dis.png
+SHA1-Digest: 4c3Ev53ylwCVVTrXj28aP/yqcp0=
+
+Name: res/layout-sw320dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: boMcugQrp8RERqLEQ0aPNB0ZbLE=
+
+Name: res/drawable-sw600dp-v13/switchon_ldrtl.png
+SHA1-Digest: h8CsBCuZKc72SgCWsoR6LTY+StY=
+
+Name: res/layout-sw360dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: SzsEoZHANut26Y/Btedg1nnVR44=
+
+Name: res/layout-sw360dp-port-v13/main.xml
+SHA1-Digest: 34LeEoKyy/lNZa1cOC1uzVE28oY=
+
+Name: resources.arsc
+SHA1-Digest: gfDLV7hu/J5r813G2Z0z05poKGc=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/dslogo.png
+SHA1-Digest: zxgrlHoSEZBKzFY1vR1d+qJ3lJ8=
+
+Name: res/drawable-sw720dp-port-v13/power_off.png
+SHA1-Digest: XsL7DjrKQpsJuWeLL/rD+GiDuh0=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/preset_list_item0.xml
+SHA1-Digest: XBL1GBZkP6bBfogIaTuYwse764M=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: yKahi+x4x7I3vlkr+3u/5RPrbfY=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/videoplayer.xml
+SHA1-Digest: g69tadwJU3a59yKFABd+lx7NIM4=
+
+Name: res/drawable-sw600dp-xhdpi-v13/bg_dolby_app.png
+SHA1-Digest: bviegUNyXAxZMcg0qEwmzf0iOw8=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq_bar.png
+SHA1-Digest: TvxLetLBx462p396I3/GyecyvXQ=
+
+Name: res/drawable-sw600dp-xhdpi-v13/profileblank.png
+SHA1-Digest: 2MrnPoOZWusPDlLWcfP8fJz/x3E=
+
+Name: res/layout-sw320dp-port-v13/main.xml
+SHA1-Digest: KDQDnnKmOEdQcExYA2K2kBWYIsM=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: q6d4fSwPOqQt81SYAlzC5Y6083M=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: DawmFv3TEhsy5xYqzwNttOWS9X4=
+
+Name: res/drawable/stop_off.png
+SHA1-Digest: k24MKayfpqKtf9fscCmP38L39Kk=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/main.xml
+SHA1-Digest: 5A517A8ar9ySpXiIH0lzKVi4A/U=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: sr/LG/1XkOnfp0GFcCah8IK8iBs=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: PIs6Yu+uQzJrRxZNE3p6ATmRgJ8=
+
+Name: res/layout-sw800dp-port-hdpi-v13/equalizer_list_item.xml
+SHA1-Digest: pYukh04cEv9VUHmqvRcu5L/lD0I=
+
+Name: res/drawable/eqlistframe_image.xml
+SHA1-Digest: tBVuWpaLdU6Qp6JzD2L76zKZoyk=
+
+Name: res/layout-ldrtl-sw600dp-v13/fragprofilepresets.xml
+SHA1-Digest: 1xj+n6P57T5k2uFT+Gz28hWf/5Y=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/main.xml
+SHA1-Digest: MvYaUZkCRxJ9y/fWUV4mxZN28+A=
+
+Name: res/drawable/switch_button_ldrtl.xml
+SHA1-Digest: J9aSgPZRzdqR4jDjWKWeQ+Fkyfs=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: tdKoxoq4PT502onq72ADDgZ9rzk=
+
+Name: res/layout-sw600dp-v13/preset_list_item0.xml
+SHA1-Digest: DPtNiRZjP1bKjdOIjb8WNNJ8N5U=
+
+Name: res/drawable/close_on.png
+SHA1-Digest: zQGwslz7M7tSDqEuCpN+UFUPU5A=
+
+Name: res/drawable/motorola_logo.png
+SHA1-Digest: BZmcnpmYigy5QuMIHkoMjLfT7a8=
+
+Name: res/drawable-sw480dp-hdpi-v13/bg_dolby_app.png
+SHA1-Digest: NTJOC5JA/5nMM5KtNDw0fhCjtmI=
+
+Name: res/drawable-sw320dp-xhdpi-v13/dslogo.png
+SHA1-Digest: +JHs5Ai8K0c0KsMfjJ+B/Od3tQs=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: zHR1cWakPrATy0OZsG0VJk5Iayk=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: bmzKbWyr4u8JiMT9dmbha+gepfw=
+
+Name: res/layout-sw800dp-port-v13/videoplayer.xml
+SHA1-Digest: /PC9g1oes1OdGzrK9ZaaBAmSZMM=
+
+Name: res/drawable-sw320dp-xhdpi-v13/musicdis.png
+SHA1-Digest: iEss7NS9SqytmsOxI0TXRLV6lSU=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: gerOEiVyWNvlrgiP+tB/QMeEx6w=
+
+Name: res/layout-sw320dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: MBW9XA5w9c8Crap8ws0qpzEFtgI=
+
+Name: res/layout-sw720dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: CKLeFTWXw0daPMGF2le0XnBOp28=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/fraggraphicvisualizer.xm
+ l
+SHA1-Digest: JtyB/rXHuKJ+UN8klwwcSuerE0Q=
+
+Name: res/drawable-sw320dp-xhdpi-v13/musicon.png
+SHA1-Digest: t3R6CZOR3DxsWoMMb2/RQj8ZDUk=
+
+Name: res/drawable-sw720dp-port-v13/preset1on.png
+SHA1-Digest: 5iGE+fX6nPRtay4/d0WG0eGUAAM=
+
+Name: res/drawable-sw480dp-land-xhdpi-v13/btn_goto.9.png
+SHA1-Digest: jp3KHrwORFFUN5fUuvBHn/UjsX4=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/fragpower.xml
+SHA1-Digest: JyoDVNZ2s2U4F3PREoEgC0nNm58=
+
+Name: res/drawable-sw600dp-v13/highlight.png
+SHA1-Digest: /48qaT5HEJ8Wy5uCPUIyDmlCrAY=
+
+Name: res/drawable-sw600dp-xhdpi-v13/switchdis.png
+SHA1-Digest: y86HqkPK8VejuwbetGRGpgi9X2M=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/preset_list_item.xml
+SHA1-Digest: M+zKbpm3UHuIggAJwjHqASMjLYs=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq1.png
+SHA1-Digest: R3j/EXelh++7DnM1OV1MGCJGdj8=
+
+Name: res/drawable-sw320dp-xhdpi-v13/topselectedbackground.png
+SHA1-Digest: 2s1WeOe8vM6TzMm0rF2KxrNiuqQ=
+
+Name: res/layout-sw320dp-port-v13/videoplayer.xml
+SHA1-Digest: Q47r6HMvW2Op6GTRi/kP6hVpZLY=
+
+Name: res/drawable-sw600dp-v13/power_on.png
+SHA1-Digest: lZae0qTzKJDdTPGYBENhnCIumL8=
+
+Name: res/drawable-xhdpi-v4/mock_gv_brick_red.png
+SHA1-Digest: r5Y2b17hV1Ud7bs2IDib9FyNtHY=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/fragswitches.xml
+SHA1-Digest: 1MglKU4UZSr01wNfcmlFwqOqwrM=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: Kvg9W7ogdjIj8P0OdTvDaCChw6s=
+
+Name: res/drawable-xhdpi-v4/tooltip_border_2.png
+SHA1-Digest: T3iNYbdzf7ZhxoePRMPoGELbCzM=
+
+Name: res/drawable-sw320dp-xhdpi-v13/movieon.png
+SHA1-Digest: RIvWmW1xkl4oc9M/4kX4z7EY2l0=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq6dis.png
+SHA1-Digest: AFGqIkW6Dx+lW7UQMCbw/Iq6Z1g=
+
+Name: res/drawable-sw720dp-port-v13/switchdis.png
+SHA1-Digest: 0Xj+FalpPfDXc0LcLsteWQ7zTNw=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq3sel.png
+SHA1-Digest: F1wtrf67ReNOBq4I2t52/PGMvQg=
+
+Name: res/drawable-sw600dp-land-xhdpi-v13/eqlistframedis.png
+SHA1-Digest: PvDMUcqFbsHFVVyHBgccHGUGnvA=
+
+Name: res/layout-sw720dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: xoqeE2JAPKZttlaOiNvLSC10gqg=
+
+Name: res/layout-sw600dp-port-v13/splash_screen.xml
+SHA1-Digest: 6yFb2AFNU5DLK3ndvY004CAlt+o=
+
+Name: res/drawable/spec_frame_on.9.png
+SHA1-Digest: lm013hnVeXwydHhBeIQkQGhcOaw=
+
+Name: res/raw/instore_demo_media.mp4
+SHA1-Digest: 13Fh9he/UQ9A1e0EgmYQ5D32f+w=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq2.png
+SHA1-Digest: nvx/Anfprh+8meCea6wjlbgwxOg=
+
+Name: res/drawable-sw480dp-land-xhdpi-v13/btn_scroll.png
+SHA1-Digest: +gHWazLYhYqyw3vbsKMfKiRLAX4=
+
+Name: res/drawable-sw720dp-port-v13/gamedis.png
+SHA1-Digest: SusciuimskSay34KmSEMYZ+E9ds=
+
+Name: res/drawable-sw360dp-xhdpi-v13/gameoff.png
+SHA1-Digest: jnHlqc5TKhOlVL812+Pw6lx7iAY=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/fraggraphicvisualizer.xm
+ l
+SHA1-Digest: qvuMMuuL+/AYDU/IkMcAdmcKWGM=
+
+Name: res/drawable-sw360dp-xhdpi-v13/btn_scroll.png
+SHA1-Digest: h5CHz326bYaaQwn80FjQrpvEfM8=
+
+Name: res/drawable-sw600dp-land-xhdpi-v13/eqlistframe_ldrtl.png
+SHA1-Digest: VOzUbRfmdgmxKPy9Ukso9UZA2VI=
+
+Name: res/layout-sw800dp-land-v13/fragswitches.xml
+SHA1-Digest: 5oFE9L4em110sOeSoQgNk0J+HiM=
+
+Name: res/drawable-sw480dp-hdpi-v13/btn_scroll.png
+SHA1-Digest: rWx5EMpgy7DdJWzyHGtCTJflxYA=
+
+Name: res/drawable/minimize.png
+SHA1-Digest: clNKKl4Iqn9wfgib+mphSCKtsTw=
+
+Name: res/drawable-sw720dp-port-v13/voiceon.png
+SHA1-Digest: XQT5Vfvf087CEn0NgA6MmR9qy+U=
+
+Name: res/drawable-sw360dp-xhdpi-v13/switchoff_ldrtl.png
+SHA1-Digest: yZy24TON4X0JsZZ1tQrPvKXg3XY=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/switchoff_ldrtl.png
+SHA1-Digest: KmimYwAMI4R97valDf7qK8DaP4A=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/splash_screen.xml
+SHA1-Digest: dKZz8cW9fnbFPov/o+Ykaa6T4hY=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq3sel.png
+SHA1-Digest: CvTI/h2MY2HCOtyD6wI9n4CU9i0=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/fragpower.xml
+SHA1-Digest: 3OQgjoemv6C3yY7VEg98SKJhi3g=
+
+Name: res/layout-sw360dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: 80g/LGtrlART1RTAzuCif07HgSg=
+
+Name: res/drawable-xhdpi-v4/switchdis_ldrtl.png
+SHA1-Digest: yajua9HeGkY+j1Hv1MbzRpuU2g8=
+
+Name: res/drawable/widget_dslogo_on.png
+SHA1-Digest: ReIDyXb+YXlNI5QStzO3gG9g+Pg=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq3dis.png
+SHA1-Digest: PZ2MuSuPX9sWTGaOLUIocMDfIRw=
+
+Name: res/drawable-sw600dp-v13/movieoff.png
+SHA1-Digest: QivTaH5mC9MUk2ResmPQnBSFVrc=
+
+Name: res/drawable-sw720dp-port-v13/switchon_ldrtl.png
+SHA1-Digest: th2lPMj6FSeQ4rUvg2aiqpKV/o8=
+
+Name: res/layout-sw600dp-v13/fraggraphicvisualizer.xml
+SHA1-Digest: ty5PcwYwtzswzun+cknx7WxjVQQ=
+
+Name: res/drawable-sw600dp-xhdpi-v13/voiceon.png
+SHA1-Digest: w8gqgttNZfaYnt+iw28xQ/Zv1CI=
+
+Name: assets/fonts/Roboto-Medium.ttf
+SHA1-Digest: Hxjjo092TqdosnoiLLzLfU+B7v4=
+
+Name: res/drawable-sw600dp-xhdpi-v13/preset1on.png
+SHA1-Digest: 5QzqUNNPab4doQBNaYSgS0ruWn4=
+
+Name: res/layout-sw320dp-land-v13/fragexploredolbyatmos.xml
+SHA1-Digest: 2txcAwVKrbGsKjjHLL8JnEBtpwg=
+
+Name: res/layout-sw600dp-v13/preset_list_item1.xml
+SHA1-Digest: TrDofWviu6J/m1qjRWffQP8V5KA=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq2.png
+SHA1-Digest: 9y5qbFdCXvQ3j0Niq71J77JOMpQ=
+
+Name: res/layout-sw600dp-v13/equalizer_list_item.xml
+SHA1-Digest: kKrlEpLvy66+sMJyzOYmnLfqNgA=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/bg_dolby_app.png
+SHA1-Digest: 0Ecp+foHKGnKVcQ+8V5QW27qIiI=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: Uw6C6wLEaE13oYda/bZbZWIG/Ds=
+
+Name: res/drawable-sw360dp-xhdpi-v13/voicedis.png
+SHA1-Digest: m74aKatgK8dotrHV25i9tzDKMoA=
+
+Name: res/layout/vertical_axis.xml
+SHA1-Digest: q9Q1Pcl6zfSUwUqWAUZTBh+TbuM=
+
+Name: res/layout-sw720dp-port-v13/preset_list_item.xml
+SHA1-Digest: lCEtSCrjhLgLjEcyoVOsQuxWjb4=
+
+Name: res/drawable-sw800dp-port-v13/eqlistsel.png
+SHA1-Digest: l3KVT/JMTDzpRSGon05hutK4Q74=
+
+Name: res/layout-sw320dp-land-v13/fragpower.xml
+SHA1-Digest: R0fLqv3fRdRU7gx3cySZi2MmDuQ=
+
+Name: res/drawable-sw720dp-port-v13/preset2dis.png
+SHA1-Digest: 2HA0tyS1wVvQnewh2Gw0P5084aw=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq_thumb.png
+SHA1-Digest: M9UlV4/4vc6B3Dc+lnS5oTPRls8=
+
+Name: res/drawable-sw600dp-xhdpi-v13/preset2dis.png
+SHA1-Digest: Nvzi5dhKHGwgaH/9fYMYA84f3ak=
+
+Name: res/drawable-sw360dp-xhdpi-v13/switchon.png
+SHA1-Digest: eqan5Hdbd4uBX376HRl85fln1Pg=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/preset_list_item.xml
+SHA1-Digest: C2/8xUXQmKBch+hsROx8Bt+lVlU=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/eqlistframedis.png
+SHA1-Digest: PCXWwW/AfsU77aZLex5Yi341XEE=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: rFNQ2kGtVvgT88MuXbjLl6/HM7w=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: dNx/aBrWV3C2qyy8CXWyVToTMrA=
+
+Name: res/drawable-xhdpi-v4/switchoff.png
+SHA1-Digest: zT5grlfL8j4IoVQczDzCYnlFt5g=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/splash_screen.xml
+SHA1-Digest: ASPi9Usj1GuaTbus8NLxgw2dh98=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq3.png
+SHA1-Digest: x8Vhk1cGMM56w3Ky8uM8rRkYJSs=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/fragswitches.xml
+SHA1-Digest: KNbclQRlQKzlqfOuJoMRL1gGRvE=
+
+Name: res/drawable-xhdpi-v4/mock_gv_brick_yellow.png
+SHA1-Digest: /KPFxIkh7jh20/FuDAJcFP7yW6k=
+
+Name: res/layout-sw600dp-v13/preset_list_item.xml
+SHA1-Digest: PhPTw+9JJ9ePJdxzlhlRY733u30=
+
+Name: res/layout-sw320dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: clwj1DttAAbTZ7wLastCC5+Fmjo=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/splash_screen.xml
+SHA1-Digest: 84/wcOFpsvZjK+QXd370ukc6xuk=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: i574DNLi0o41hp1CaZ+fPnO3FT0=
+
+Name: res/drawable-xhdpi-v4/switchdis.png
+SHA1-Digest: ny8zrbvHxctEk0H571O4IJYjzpI=
+
+Name: res/layout-sw800dp-port-v13/preset_list_item1.xml
+SHA1-Digest: nJ+jo9EGGdhmAvC8ucQPc9djYzg=
+
+Name: res/drawable/tooltip_border_9.png
+SHA1-Digest: rrM6ilKZYkzqBQwMy558AfDdQcE=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: O5TP2kvueygVfJHiwHqqwTqOG7o=
+
+Name: res/layout-sw360dp-land-v13/preset_list_item.xml
+SHA1-Digest: d44AkShUpEr//XF8+jLvZRJu+z4=
+
+Name: res/layout-sw600dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: fWzGOVBaqdNJ94u7eNtAWsFW9+8=
+
+Name: res/drawable-sw600dp-v13/musicon.png
+SHA1-Digest: p4Gp2kRPGF31oooSVXUNNAVI/SI=
+
+Name: res/layout-sw320dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: P/+8bSNW7Kct4J2qhvsa69o4Nfw=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/eqlistsel.png
+SHA1-Digest: c4nvh/g6Iehu9R2z8TEOSnqKc38=
+
+Name: res/drawable-sw320dp-xhdpi-v13/btn_scrollup.png
+SHA1-Digest: XpLL53RsYVUpUXNxviuVasitJu4=
+
+Name: res/layout-ldrtl-sw600dp-v13/explore_dolby_atmos.xml
+SHA1-Digest: lu4fc+DiIrBQpYcY7SN3A7B6AVU=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: BW8W3ZPIDKHmpImEiVXyNtEh6Fg=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq_bar.png
+SHA1-Digest: 0nbcjgpp5TsGmQmzIA1kIYhIlo8=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/fraggraphicvisualizer.xm
+ l
+SHA1-Digest: oNIcX48qCQ+2T0YsFIV+ncTVE1E=
+
+Name: res/layout-sw320dp-land-v13/equalizer_list_item.xml
+SHA1-Digest: tr7DWtlvc3sZh0t4/dkArkwg9js=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq6sel.png
+SHA1-Digest: gUrZBs+QAOwGC4Nu6aHOap1pVAI=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/fragswitches.xml
+SHA1-Digest: D3x41hQr16p4kk6kkV9z3ghsa6s=
+
+Name: res/drawable-sw600dp-xhdpi-v13/preset2off.png
+SHA1-Digest: jGDpRIMernApkREqA8g3ij+j6ww=
+
+Name: res/drawable-sw360dp-xhdpi-v13/dslogo_splash.png
+SHA1-Digest: q2wuHoxI4hqkRUF2Iuvfmi9okIU=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: GWdpE4U2EkcXJw+J34wBBz2/4dg=
+
+Name: res/drawable-sw600dp-v13/btn_scroll.png
+SHA1-Digest: lQRQbepJKp5Lf9570FUSIbtNwow=
+
+Name: res/layout-ldrtl-sw600dp-v13/fragpower.xml
+SHA1-Digest: +yX4tkTy+cJyYl37eyfezb63mTs=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq1dis.png
+SHA1-Digest: hr0udunzZKSASX4i29NaEvK1o/U=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: GtnOk+Vee9hXUKB/qqDQpEq2JNs=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: YgpehOEURt57zp0uUiRWqVUO0Uo=
+
+Name: res/layout-sw800dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: uVsBYPufzDC6X+7KW8w4DXpwSZE=
+
+Name: res/layout-sw800dp-port-hdpi-v13/preset_list_item.xml
+SHA1-Digest: I7qrbxW2of9ftb0XYyfsKlO58Mo=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq_thumb_touch_state.png
+SHA1-Digest: 8yxlbuWQ9TFMhQKCcirlpwDKtBc=
+
+Name: res/drawable-xhdpi-v4/replay_on.png
+SHA1-Digest: 2VShHMEHW4i7KORicp07JUrRWXg=
+
+Name: res/drawable-sw600dp-v13/btn_goto_arab.9.png
+SHA1-Digest: RckBLLJHfbI2NmGEOa39Xcxdqv0=
+
+Name: res/drawable-sw600dp-v13/gameoff.png
+SHA1-Digest: VycyfZgWVT+tQ8dKqH/74CKWnjE=
+
+Name: res/drawable-sw600dp-port-v13/eqlistframedis.png
+SHA1-Digest: p8Ut0n/3Q/PglDXV+Q12wCGQX74=
+
+Name: res/drawable-sw720dp-port-v13/preset2off.png
+SHA1-Digest: EuRg/KtIajlWsy7aeOPQGb4EfP4=
+
+Name: res/drawable-sw800dp-port-v13/eqlistframe_ldrtl.png
+SHA1-Digest: 7BeJ/plZhHqHHb0rHH8P5dfWCPg=
+
+Name: res/drawable-sw360dp-land-xhdpi-v13/profile_bg_on.png
+SHA1-Digest: GwvFUAwuQe2prXug4ArmX+5kYGg=
+
+Name: res/drawable-sw600dp-port-xhdpi-v13/bg_dolby_atmos.png
+SHA1-Digest: hjmixcTO1ej8h454df/qfo8Wyfs=
+
+Name: res/drawable/dolbytechbar_bg.png
+SHA1-Digest: b1TZeXJpOaN6ftkX2yGOv+WXHEE=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: xK1G0Uvz2nSrB7gd1d28o1Nt3g0=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: MAGrJ4TzFTzCUkdFfj85Ik7QjCE=
+
+Name: res/layout-sw360dp-land-v13/preset_list_item0.xml
+SHA1-Digest: ID8q35NPObzm1mGJtX9WSMoP854=
+
+Name: res/layout-sw720dp-port-mdpi-v13/preset_list_item1.xml
+SHA1-Digest: 7ymvZ9M9RbwfN/oag32fMPWN0Rg=
+
+Name: res/layout-sw720dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: 1J9mc0K4mmU0WMUPhrZFXssEmac=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq_thumb.png
+SHA1-Digest: k/pmm1mApnVKBxntFMH8g8PYeJg=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/explore_dolby_atmos.xml
+SHA1-Digest: omM4xopI/9GSmy5fZjR09gxCv04=
+
+Name: res/drawable-sw320dp-xhdpi-v13/musicoff.png
+SHA1-Digest: 6Dg95X32wpw+CL6ljLpbTvXFPKQ=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/main.xml
+SHA1-Digest: 9Z8GDANrZJ7syujI9QQjy2R1ano=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq_thumb.png
+SHA1-Digest: qz78HRv+XhILxU8xEV026ngh9/w=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/preset2on.png
+SHA1-Digest: khQbhhQDTN25GRFB31AFBa3/Dsk=
+
+Name: res/drawable/switchon.png
+SHA1-Digest: GL0YCH+EVAZHibWN1sCWKb4X/44=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: PYBf3It18Il6p9smeol+SuhqNK0=
+
+Name: res/layout-sw600dp-v13/fragpower.xml
+SHA1-Digest: NPG/PBCJK/0Ux6vpA/0MbbIGjXU=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/videoplayer.xml
+SHA1-Digest: RMcXrcUnPaoJT+H4DFUSx/fQg/I=
+
+Name: res/color/text_color_bluehide.xml
+SHA1-Digest: oEYDjllgLIE3/W29Y5UyY+puHgc=
+
+Name: res/drawable-sw600dp-port-v13/eqlistframedis_ldrtl.png
+SHA1-Digest: hzJ/zAis/cEUWVy0Bg7EYS2pbwg=
+
+Name: res/drawable-xhdpi-v4/profilesbg.png
+SHA1-Digest: NnpTLYq96rwggboVId4iKpkCtHE=
+
+Name: res/drawable-sw720dp-port-v13/eq7.png
+SHA1-Digest: hm5bb2jdf9MEJj/qlH99n9/S5JU=
+
+Name: res/drawable-sw600dp-xhdpi-v13/voiceoff.png
+SHA1-Digest: sGQ/yJgiIHuSC2cSnzSfqPgPL6s=
+
+Name: res/color/text_color_equalizername.xml
+SHA1-Digest: y2c8zbWPrFofko5gH/bPSUea9ww=
+
+Name: res/drawable-sw720dp-port-v13/eq7dis.png
+SHA1-Digest: wIyF/cpfTaISbJeS3af9Os/JL5k=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq4dis.png
+SHA1-Digest: gWuuSrlQ4jxoFI4Q/rBNwLo/z/c=
+
+Name: res/drawable-sw360dp-xhdpi-v13/voiceoff.png
+SHA1-Digest: /WnjHPt0dxwnW7k7WUT8MKvQZ0Q=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/btn_goto.9.png
+SHA1-Digest: Rco38SRFuIw+45prf32PdhflVgo=
+
+Name: res/layout-ldrtl/tooltip2.xml
+SHA1-Digest: oG68CT4+BAjMVkJ/eieJbV4iU/M=
+
+Name: res/layout-sw800dp-port-v13/fragswitches.xml
+SHA1-Digest: ev43ajV6Vk7JJFcOopc6DOyPVPI=
+
+Name: res/drawable-xhdpi-v4/spec_frame_off.9.png
+SHA1-Digest: L4tkwiaDuPxPfqhTXa9xMrrUVcw=
+
+Name: res/layout-sw800dp-port-v13/preset_list_item0.xml
+SHA1-Digest: 3tPG4C+XXd4XU/PNzvBwsJmdhak=
+
+Name: res/layout-sw600dp-v13/videoplayer.xml
+SHA1-Digest: +p673uPCPEn7HKKih8vuEPBK284=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq3.png
+SHA1-Digest: mk4uJumG6WIEoivtTnOb3p4tYVw=
+
+Name: res/drawable/switch_button.xml
+SHA1-Digest: bu7duJ22JDDGo3HgupD8ZY6Urt4=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: doLSoIuqpSXujwzzVwlHBQ0htSQ=
+
+Name: res/drawable/switchdis_ldrtl.png
+SHA1-Digest: Cnne3Of4HwCqC7vBEHUvFEPMLaM=
+
+Name: res/layout-sw360dp-port-v13/preset_list_item1.xml
+SHA1-Digest: yKNuM58TWaq9xT8ztd8a3B+3818=
+
+Name: res/drawable-sw640dp-port-v13/topbackground.png
+SHA1-Digest: is3kVs3EumK5HuwjlRQHWvbrgug=
+
+Name: res/drawable-xhdpi-v4/dslogo_splash.png
+SHA1-Digest: gm1xpiqmtvtKYv1RPgxN1eKyb9U=
+
+Name: res/layout-sw360dp-land-v13/fragexploredolbyatmos.xml
+SHA1-Digest: OfTUkTXRGel6FtRLXVo8RmVBpIg=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq4dis.png
+SHA1-Digest: IVkO5rtP/ZDO4Stz2dqq2FgJS+o=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: UuLFsmKtPNo/eB+0ZpdKbJY8tUc=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/fragprofilepresets.xml
+SHA1-Digest: kMcpyfmqt18l8cP37+snYWXk0cM=
+
+Name: res/layout-sw720dp-port-mdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: hjNhmVvd3I8WinglKvigHstX1E0=
+
+Name: res/drawable/tooltip_border_8.png
+SHA1-Digest: L7uq0U5MOUrNE/QHyoJWSHbBXM4=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: Kc+j0efZ13jw73tqmpLYumD9wlI=
+
+Name: res/drawable-sw600dp-land-v13/eqlistframe.png
+SHA1-Digest: 3DS4W5mSeRLpKAYwbqAtjl6YXe8=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/movieon.png
+SHA1-Digest: +fo1+LYXKGXCF++MYSfSPZHPJ9g=
+
+Name: res/drawable-sw720dp-port-v13/eq2sel.png
+SHA1-Digest: isiDelP3uydc3DnhHlrJ0GJd0vw=
+
+Name: res/layout-sw720dp-port-mdpi-v13/fragprofilepresets.xml
+SHA1-Digest: LcioyCw42lmlHfD2eNHiqxX6aGg=
+
+Name: res/drawable-sw600dp-v13/bg_dolby_atmos.png
+SHA1-Digest: CkFddhV4IK2K1n7JKJOJNPD0pMY=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq4sel.png
+SHA1-Digest: nJGvSAwr5M5P2yrWgIszhQBak7w=
+
+Name: res/drawable-sw320dp-xhdpi-v13/switchon.png
+SHA1-Digest: gh5UAYgVFxqi9sVrA+khpa++LAA=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq4.png
+SHA1-Digest: PdCiX6XDN2EKGxR12adtgr/umoE=
+
+Name: res/layout-sw360dp-port-v13/fragprofileeditor.xml
+SHA1-Digest: WmvkLpOX34Aj+lF95GL23Evujh8=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/main.xml
+SHA1-Digest: /EgZvvELbpJI77v10CBbhWpuADo=
+
+Name: res/drawable-sw600dp-v13/gamedis.png
+SHA1-Digest: PBYsc2CmerFmlng4OMLHIE1NvE8=
+
+Name: res/drawable-sw600dp-v13/eq3sel.png
+SHA1-Digest: mf8dd81oYYYeEIUmRAoMo3KBQf4=
+
+Name: res/drawable/highlight.png
+SHA1-Digest: 8X28+SB3S4WOamyqeAjgg6ljx3Q=
+
+Name: res/layout-sw600dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: XBPCtyAqRCCtRaDmkbbF7ESW19s=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/preset_list_item.xml
+SHA1-Digest: 1lySXwYhv8ntbVH+XZYaf4447xk=
+
+Name: res/drawable-sw600dp-v13/eq3dis.png
+SHA1-Digest: v126fCw0cnGK6fR6gvz0dMqIYq4=
+
+Name: res/drawable-sw720dp-port-v13/eq2dis.png
+SHA1-Digest: M3BkBd71IbmMu10IrqyrFGbPF7Y=
+
+Name: res/drawable/spec_frame_off.9.png
+SHA1-Digest: 8kxDzb3Bmzqmw3xhPh9iW3sO5uw=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: dXGUTIPZdEDhJCKBLzhYSvZNhGU=
+
+Name: res/drawable-sw720dp-port-v13/btn_goto_arab.9.png
+SHA1-Digest: Gr8ZOgEolZkS67n5Rrx37ervA9w=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: 3srLgJHufF4A5wgtkptlY1OSHg8=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/voiceoff.png
+SHA1-Digest: Z18YUxVSRH3npI3cH+QcyIzyW0Y=
+
+Name: res/layout-sw360dp-land-v13/fragprofileeditor.xml
+SHA1-Digest: /wQyC+a0PjlEg6kzMLwUUGHHAws=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/main.xml
+SHA1-Digest: uOKU48qHqCGKWT2ig73aQWLe+HA=
+
+Name: res/drawable-sw720dp-port-v13/preset1dis.png
+SHA1-Digest: N57QeHXgor0+hl8y6fD6wjAsyeI=
+
+Name: res/drawable-sw720dp-port-v13/eq6.png
+SHA1-Digest: YjXhynwIWiFF9cCPVKgBHelFdRk=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: rS7VNTOFeCADGa/A9N1vVKIStDY=
+
+Name: res/layout-sw360dp-port-v13/fragequalizerpresets.xml
+SHA1-Digest: qw/ydtG/tFNPV6EboqrOGXTUN6U=
+
+Name: res/drawable/eq_thumb.png
+SHA1-Digest: D8sdp9cqDzDWco95OoF29nsQJVs=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: 5t2etwOq+MMk9cRaxQiOwDidJdQ=
+
+Name: res/drawable-sw320dp-xhdpi-v13/gameon.png
+SHA1-Digest: 8x8QnjZ2l8orIo/7etkz5ghj18o=
+
+Name: res/drawable-sw360dp-xhdpi-v13/preset1on.png
+SHA1-Digest: QSy855mJOu4xPXPl4cFIahfWZNg=
+
+Name: res/drawable-sw600dp-land-v13/eqlistframedis.png
+SHA1-Digest: j89MSYMqI+9wnO77Uu7xE+F2L8M=
+
+Name: res/layout-sw720dp-port-mdpi-v13/preset_list_item0.xml
+SHA1-Digest: l3uh4dzrW0YVbPWKBRfBJKKT59s=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: HAHyOLLaH1iXVGXfgXdfhcPXjlE=
+
+Name: res/drawable-sw640dp-port-v13/eqlistframe_ldrtl.png
+SHA1-Digest: 1GoiFR2Ys9lXQTSRGiiSI8UcGtM=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq2sel.png
+SHA1-Digest: VxU+iywlkey5dDqPLk/A4Jpbc0c=
+
+Name: res/layout-sw600dp-port-v13/preset_list_item.xml
+SHA1-Digest: FGR92x20fF5aA637vWhngQWQqdU=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/musicon.png
+SHA1-Digest: ieqTK8/Vu8tofAI47C0O94irYck=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: XF44HI5GNa3El6xK3C6F/qY3lZM=
+
+Name: res/drawable-sw360dp-xhdpi-v13/musicdis.png
+SHA1-Digest: L40ZrrxhW0jehd+5A68Sphny0CY=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/fragswitches.xml
+SHA1-Digest: bpdMOSEIEjIZxj0nGRNpDaGOiBc=
+
+Name: res/drawable-sw320dp-land-xhdpi-v13/eqlistsel.png
+SHA1-Digest: JZ6JhMmgKtRKM6yUiQoHplJ0JNY=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq4.png
+SHA1-Digest: 7vWTJ8hz+AboPc4G51M6cA+ny+8=
+
+Name: res/drawable-sw600dp-v13/eq4sel.png
+SHA1-Digest: dcvCFLlL5Aj2u/+7aYOhiDTkA/U=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: gJ5Jvbo7fzSxE8PMpfjfcaUTn78=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/preset_list_item0.xml
+SHA1-Digest: nwsLYZ+2wQ858G109jTxqAAbTDg=
+
+Name: res/layout-ldrtl-sw600dp-port-v13/fragprofilepresets.xml
+SHA1-Digest: GDqQuHT/BxnzaUrStZsJ2OgWH5w=
+
+Name: res/drawable-xhdpi-v4/stop_off.png
+SHA1-Digest: XAqrVupA84eP9pV0IfrQ7Nj2S+A=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/equalizer_list_item.xml
+SHA1-Digest: n6de9hRByJtBLLPPyv7DrIlZjDM=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/fragexploredolbyatmos.xm
+ l
+SHA1-Digest: 9mYRCEg8OcSC7XJNg8UYkML0Wnw=
+
+Name: res/drawable-sw600dp-xhdpi-v13/moviedis.png
+SHA1-Digest: TWV4Ebtqd4IzjMq8JZK32CQHjvE=
+
+Name: res/drawable/mock_gv_brick_blue.png
+SHA1-Digest: aXXoKVgASZZ2yhDg2CsxWBTHLnM=
+
+Name: res/layout-sw720dp-port-v13/fragexploredolbyatmos.xml
+SHA1-Digest: /gfvU6xkjadcxVwXSOIAv7atOgE=
+
+Name: res/drawable-sw600dp-land-v13/eqlistframedis_ldrtl.png
+SHA1-Digest: MSKp9Sm21Sy7ul+qiuDPk7ZsHks=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: 107DXcyXbRfedY7b4tv0euIoWAg=
+
+Name: assets/fonts/Roboto-Light.ttf
+SHA1-Digest: LzKslQd9HxdrieCDzDpfAZkBK/k=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq6.png
+SHA1-Digest: 2+ymC8R7Vhu+E51NnO6ADsOIslM=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/fragprofilepresets.xml
+SHA1-Digest: AQQz2Fqjp+YUtztf2WgSIEK3+wM=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq3dis.png
+SHA1-Digest: ab8C2OcE3RoUAIubz7vrjhVdepM=
+
+Name: res/drawable-sw320dp-xhdpi-v13/power_touch.png
+SHA1-Digest: IPc1ITtbx5WVI799kDHPFmdLSeA=
+
+Name: res/drawable/spec_frame.xml
+SHA1-Digest: 37/rFOXn9hqWtgyrkKjfsZLiQuc=
+
+Name: res/layout-sw360dp-land-v13/equalizer_list_item.xml
+SHA1-Digest: 8qUjXkIZdvuFNxDvN4G3DH4aKoc=
+
+Name: res/drawable-sw720dp-port-v13/eq1sel.png
+SHA1-Digest: vQtHxqcbLdXPfOhvejzMbJQ35KU=
+
+Name: res/layout-ldrtl-sw600dp-v13/main.xml
+SHA1-Digest: dvrv6okDuNCcxXzYvX7ONfxIpXg=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: Gq3jaMYV1xQNzbgWBmJONy2PYdg=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq7sel.png
+SHA1-Digest: t7icDRUr+HmNZjHfO7L8GPOlXJE=
+
+Name: res/layout-sw600dp-v13/fragexploredolbyatmos.xml
+SHA1-Digest: mMdPAd+QC+KqlvkOQTQ3w0t6BfU=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq1sel.png
+SHA1-Digest: GayggTxGgEPxGpPwOzTTF5fxrzM=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/fragswitches.xml
+SHA1-Digest: /96ftBFrzfaqf9fDxAMn1iZLFJk=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/main.xml
+SHA1-Digest: 53/7Kvd66c6con8EWTp20lyyAcs=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: ayLw8XZLVkSrqHHpYlx45aZGPQ4=
+
+Name: res/layout-sw720dp-port-mdpi-v13/videoplayer.xml
+SHA1-Digest: Qs/XK9burDcP5+hodMHgwR3/2fI=
+
+Name: res/drawable-sw320dp-xhdpi-v13/voiceoff.png
+SHA1-Digest: YzyLqczv2NgJmuzdsJRDf14ijeQ=
+
+Name: res/drawable-sw360dp-xhdpi-v13/switchdis_ldrtl.png
+SHA1-Digest: 9R6vUzm3d7iT7dHhz0gaz/c6EXY=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/videoplayer.xml
+SHA1-Digest: 0+/Yd9ydeB28x9BLR0cJCCC9sZw=
+
+Name: res/drawable-sw600dp-xhdpi-v13/switchoff_ldrtl.png
+SHA1-Digest: pHUksJEToRphhBoRUZyxRCO0Cy0=
+
+Name: res/drawable-sw720dp-port-v13/musicon.png
+SHA1-Digest: tbCjxEwEMfgnX2QlYxCgpcjEA/I=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq_thumb_touch_state.png
+SHA1-Digest: szT5MRDinI3rN40E+6W10BjwN+8=
+
+Name: res/layout-sw800dp-port-hdpi-v13/fragprofilepresets.xml
+SHA1-Digest: 6aWssDVV+/wc5dBHu+F0SbQ0UIw=
+
+Name: res/drawable-sw320dp-xhdpi-v13/gamedis.png
+SHA1-Digest: geAlZbKu4rDUnSeQvXB8Fh3vAsY=
+
+Name: res/drawable-xhdpi-v4/close_off.png
+SHA1-Digest: U701tGR8FuD4VdCYV6oQ79CeJmg=
+
+Name: res/layout-sw320dp-port-v13/eqlayout.xml
+SHA1-Digest: GHXoZ19snwd3Qv/3UMSw6zJqqvw=
+
+Name: res/menu/dlb_in_store_demo_remark.xml
+SHA1-Digest: YmM+T+TyRtcw8kkJ9OtZ6fYpXXw=
+
+Name: res/drawable-sw360dp-xhdpi-v13/power_touch.png
+SHA1-Digest: 61oKOaOke7rRUJWzTAueV4k0q90=
+
+Name: res/drawable/stop_on.png
+SHA1-Digest: ISfBsqZD2IDiO9Ei2WXXvnmayXs=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/preset_list_item1.xml
+SHA1-Digest: FA7MMlADYfhU9YHEGS8QU6X2UPU=
+
+Name: res/drawable-sw600dp-v13/preset1off.png
+SHA1-Digest: FB9AW3FnKRTl3Idoju1rfDuNdfM=
+
+Name: res/drawable-sw600dp-xhdpi-v13/dslogo_splash.png
+SHA1-Digest: B4T28BoQTcw8UU/E38VrgUMxHmQ=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: aGXCN4HEQCm8QS4He7+toW7vy0E=
+
+Name: res/drawable-sw600dp-xhdpi-v13/btn_scroll.png
+SHA1-Digest: eKnuSDLzcyUyFSmBujUlZgf1MJI=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/main.xml
+SHA1-Digest: OjfrQZUpo/HZ8+K5ZOjtWz78P6U=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: 5Fk1ysIzVP599fKEB/h3Yw3NxtY=
+
+Name: res/drawable-sw720dp-port-v13/movieon.png
+SHA1-Digest: jFSsZzdyP4EwlJux3oOduCTIwMg=
+
+Name: res/drawable-xhdpi-v4/close_on.png
+SHA1-Digest: 8q5PTfKl6ultzY1rIc0jZe9X2GQ=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: 9ZpfS00E0ghxlwItcxPar0VUnU8=
+
+Name: res/drawable-sw800dp-port-v13/bg_dolby_atmos.png
+SHA1-Digest: Hjqr6k6FqMWGa+IkbTZ1BMd5TCo=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: rPFPTe09z18FG2AGtEaT8KS9Ig4=
+
+Name: res/drawable-sw640dp-port-v13/eqlistsel.png
+SHA1-Digest: k5Z4gdeSgfiZKDZv++LHr+ZPuB0=
+
+Name: res/layout-sw320dp-port-v13/header.xml
+SHA1-Digest: xQWVg8u4wARlkD5dOTmVhGfXH84=
+
+Name: res/drawable-sw720dp-port-v13/moviedis.png
+SHA1-Digest: 1MABIIF9RbtQ9T8YkaJHphuGnVU=
+
+Name: res/drawable-sw320dp-xhdpi-v13/dslogo_splash.png
+SHA1-Digest: ty+YsFQqn5tWbNcw6POICf975kw=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq1sel.png
+SHA1-Digest: G+3TNpy3i47sGWpG2xrBK/DPZxg=
+
+Name: res/layout-sw800dp-port-hdpi-v13/preset_list_item1.xml
+SHA1-Digest: ujZngDLYdWfMo10QqSo8Z5lAGCo=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: NtR+cD9UZxvmY1qDhcOSe+cqT0k=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/main.xml
+SHA1-Digest: 9OgG0UtkMi/0sLD8CEvRkxSKCTM=
+
+Name: res/drawable-sw360dp-xhdpi-v13/movieon.png
+SHA1-Digest: I377qsFZd2cU76RrFFn+gkLujII=
+
+Name: res/drawable-sw720dp-port-v13/switchon.png
+SHA1-Digest: 7r9sHsTM+GBLUoJrSzCReSu5chU=
+
+Name: res/drawable-sw720dp-port-v13/bg_dolby_app.png
+SHA1-Digest: M5zC2UkZadEI0pEfBjwIsVJi5S4=
+
+Name: res/drawable-sw360dp-land-xhdpi-v13/eqlistsel.png
+SHA1-Digest: CbOKe4j1oAxkDA4wx5tFHnWfGbc=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/main.xml
+SHA1-Digest: Zar7qwx46RjvkjMedS0fUjArYkY=
+
+Name: assets/fonts/DolbyGustan-Light.otf
+SHA1-Digest: BpAt4QbRuveW2LHkBjiDuLPdq+k=
+
+Name: res/layout-sw360dp-land-v13/fragswitches.xml
+SHA1-Digest: hwcSXVpMMxCxUU3kvr7sXQyaaQ8=
+
+Name: res/layout-sw800dp-port-hdpi-v13/preset_list_item0.xml
+SHA1-Digest: wLNEnZTN/lrU6PUmzSK60C4/zng=
+
+Name: res/layout-sw800dp-port-v13/splash_screen.xml
+SHA1-Digest: mG6x7UQRI6vnf+Hz+jmGL7wONEE=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/fragpower.xml
+SHA1-Digest: 3GVDvaVRH5itC/4cArcivaZQSA0=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/videoplayer.xml
+SHA1-Digest: UnCQOzEEfadlX+aTNA6RfNsidyg=
+
+Name: res/layout-sw720dp-port-v13/splash_screen.xml
+SHA1-Digest: W6EOtj51r7BWAE9mQpIBXTMO7ZQ=
+
+Name: res/drawable-sw720dp-port-v13/bg_dolby_atmos.png
+SHA1-Digest: /59dD13AZmCEylGprGvZLI2DrNo=
+
+Name: res/layout-sw320dp-land-v13/fragprofileeditor.xml
+SHA1-Digest: vhOvL6KUWhWlC+nAGN6PDytB4Pw=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq5.png
+SHA1-Digest: IaqTGV7+PgH8HoIlLJogQ8O3UF8=
+
+Name: res/layout-sw800dp-port-hdpi-v13/main.xml
+SHA1-Digest: Et2uQ6pp0sGuQFu9lolOJd3geoA=
+
+Name: res/raw/instore_demo_loop.mp4
+SHA1-Digest: Qtg7u1g1yaPXEjmgxj6RicxkqQI=
+
+Name: res/drawable-sw600dp-xhdpi-v13/preset2on.png
+SHA1-Digest: EXv3glQbZtZ8QDPrbcZA5wMBsjs=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/bg_dolby_atmos.png
+SHA1-Digest: ZZR2z8jNEG+qH4t819CvY6krlxI=
+
+Name: res/drawable-sw720dp-port-v13/eq5.png
+SHA1-Digest: UWPQ/ocZSbJZGZ9UnmoghZW0A2o=
+
+Name: res/drawable-sw720dp-port-v13/gameon.png
+SHA1-Digest: hkEN3pJKKKslO1dx0tnD1joJ16o=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: yW4vLgK2GrrCNkBIf4DlebwNm2E=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/voicedis.png
+SHA1-Digest: 9lxkWgYkmDxnJnYe1zPhwyYdsAE=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/equalizer_list_item.xml
+SHA1-Digest: xONiTCmtt4Kfp/UCfwlC6ZeAalQ=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/eqlayout.xml
+SHA1-Digest: NBIXnlqpgNeWtKKjG5bsQ+jlpMI=
+
+Name: res/drawable-sw320dp-xhdpi-v13/gameoff.png
+SHA1-Digest: 03w/PQ/bbueLBEw1Dcw3eXNo95I=
+
+Name: res/layout-sw320dp-port-v13/preset_list_item.xml
+SHA1-Digest: iLALl1dsNOoN6bs3Q8Pna0ZFBTU=
+
+Name: res/drawable/presetremove.png
+SHA1-Digest: 2N55tGQr55aKGnb9n20PJQP1pzI=
+
+Name: res/drawable-sw600dp-v13/preset1dis.png
+SHA1-Digest: btCvr12fRupMMKhFzIpgCHMyZO8=
+
+Name: res/drawable-sw600dp-v13/eq7dis.png
+SHA1-Digest: aa8qv0GPF/bKQLFgjo9lG49dq4k=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eqlistoff.png
+SHA1-Digest: Amkb4qZh/vab7PLAj9k8Urj09kw=
+
+Name: res/layout-sw600dp-v13/main.xml
+SHA1-Digest: d9PTWRyJjjFWvmo8dF6KfOta5pM=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/fragswitches.xml
+SHA1-Digest: 9A4RojUzNbm7ERt7VpjTlRUC3QQ=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: SRn2mceAcgMThqZsT4jGa0qip1Y=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: jbrcttmw8ECoM1J7MQk0MpPshNk=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq_thumb_touch_state.png
+SHA1-Digest: 6XCx8jMIE+OgPKCqRXkvbWpNIwg=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/preset_list_item.xml
+SHA1-Digest: R55DeJhuN/+pHP2IlC9GvDuGtyc=
+
+Name: res/layout-ldrtl-sw720dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: FSO6q3altGdLGxh1zehyS2nwtQw=
+
+Name: res/drawable-sw320dp-xhdpi-v13/voicedis.png
+SHA1-Digest: 5w2lZruXwkviNwwwW9OZKyZAPz8=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/fragprofileeditor.xml
+SHA1-Digest: 4qUrJEYKOjBS4Rz1KKzCymwaFW4=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/videoplayer.xml
+SHA1-Digest: y5W57kDAn90T66kRpRJpBgB30XM=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/preset_list_item.xml
+SHA1-Digest: m1eMxmxKUfXzD0zGzm4Gjetw7Ew=
+
+Name: res/drawable-xhdpi-v4/eq_bar.png
+SHA1-Digest: SSWhndliuIs3zPJ8k2ihVtuxL1A=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq2.png
+SHA1-Digest: Epo1fq8CQLNxdiPhGz8VeoWaEGg=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/preset_list_item0.xml
+SHA1-Digest: Il+fZcBwVEmynYURpxqXxAKPxHY=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: kN7gfcSf3vqudU2b0eVn1c1WcEU=
+
+Name: res/layout-ldrtl-sw360dp-land-v13/explore_dolby_atmos.xml
+SHA1-Digest: +hp4A1z5kxTm99ncqZvo+AmEmso=
+
+Name: res/layout-sw800dp-port-hdpi-v13/fraggraphicvisualizer.xml
+SHA1-Digest: rEPkfSccrQSosUWZLalfiL19YUg=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/preset_list_item1.xml
+SHA1-Digest: U4xaIxQAfansIA1X40r4tWb1Kno=
+
+Name: res/layout-sw600dp-v13/fragprofilepresets.xml
+SHA1-Digest: 1B3GrXd+7Mbh3mq2brteEtT8vHE=
+
+Name: res/drawable-sw720dp-port-v13/movieoff.png
+SHA1-Digest: SMBQx6Vzu/nuVKBBNj+oR8GejEQ=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/voiceon.png
+SHA1-Digest: BXwMwdOOiGL3MkqnxiMDUlZN+MA=
+
+Name: res/drawable-sw320dp-xhdpi-v13/preset2off.png
+SHA1-Digest: htp/SMCNzkYfLJ0tr4gejOotkgg=
+
+Name: res/drawable-sw600dp-v13/switchoff_ldrtl.png
+SHA1-Digest: B2rOBbopLNyKMKokXfwqx0PWRuc=
+
+Name: res/drawable/sel_tooltip_qm.xml
+SHA1-Digest: p/PYQMEE70g3yPrjNkkTaFqa/Ww=
+
+Name: res/drawable-sw720dp-port-v13/preset2on.png
+SHA1-Digest: 3eCjqeqSgJjRnrIumdUQOV+oIDo=
+
+Name: res/layout-sw320dp-port-v13/fragequalizerpresets.xml
+SHA1-Digest: SSF/nts2xnbDGX3NSps/DL37zi8=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: hSCSkBScHA6dLALOt92YtQj0Ncc=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: jLLH05B5qwL8LF3Zok3iEnxgUcU=
+
+Name: res/drawable-sw720dp-port-v13/eq1.png
+SHA1-Digest: U8amzyG7SsnnVXmBLjzIok5xY7E=
+
+Name: res/drawable-sw360dp-xhdpi-v13/dslogo.png
+SHA1-Digest: Mgq0PfB2CnsbF3dEjgbAj2SZnrA=
+
+Name: res/drawable-xhdpi-v4/spec_frame_on.9.png
+SHA1-Digest: IGhM6m3pOFXkPyxB021JvSWomj4=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq6dis.png
+SHA1-Digest: 0jWVrOBJH1Vj5l5RBFqI8Cx5abU=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/preset_list_item.xml
+SHA1-Digest: jH80cBf+QtggDW/8auf54n2CmW4=
+
+Name: res/drawable-sw600dp-v13/moviedis.png
+SHA1-Digest: ZjUQQxxXYvx9vx51b/WEui6XvlI=
+
+Name: res/drawable/eq_bar.png
+SHA1-Digest: I29HmWtjT58bXb3F3Pi9uYE5aSU=
+
+Name: res/layout-ldrtl-sw800dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: oWAic+6pacprBt6q/UD47qSN2wg=
+
+Name: res/layout-ldrtl-sw720dp-port-mdpi-v13/fragswitches.xml
+SHA1-Digest: /yaab7hMINnv9bUBy0cigGrHXMA=
+
+Name: res/drawable/dslogo_splash.png
+SHA1-Digest: CSaDww6NeF7XPkL9Bm7fnuOA64k=
+
+Name: res/drawable-xhdpi-v4/switchon.png
+SHA1-Digest: 4APDQ+LVCgYalOIFGi3blupReAA=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/fragswitches.xml
+SHA1-Digest: ndeDX4bhb3SL+xmdBcjuSIX7oG4=
+
+Name: res/drawable-nodpi-v4/black_blue_glow_bg.png
+SHA1-Digest: fxaF4fGHcNXaBYPDJk/jEElfzPE=
+
+Name: res/layout-ldrtl-sw320dp-land-v13/preset_list_item1.xml
+SHA1-Digest: ZIJLUy28m6b5KzYjLwA078B0vuM=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq2sel.png
+SHA1-Digest: MkR9e4jQ1pu+HY5IBUagwXt3pp8=
+
+Name: res/layout-ldrtl-sw360dp-port-v13/preset_list_item0.xml
+SHA1-Digest: ow/j1iQx7RjWv3dXVAjSVSDOCYw=
+
+Name: res/drawable-sw600dp-v13/btn_goto.9.png
+SHA1-Digest: eHRYT5hoT6jn6xWe0yc7hxH9Y0o=
+
+Name: res/drawable-sw720dp-port-v13/eq4sel.png
+SHA1-Digest: 714vHapo5o1Lu9BapjdDpELVC74=
+
+Name: res/drawable-sw360dp-xhdpi-v13/revert_profile.png
+SHA1-Digest: oLug5OwqBSYBwXyfRkBqkRsdoO0=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/profileblank.png
+SHA1-Digest: 4aS4sKH0J9Ev3AZYJlbvVpj5hcU=
+
+Name: res/drawable-sw600dp-v13/movieon.png
+SHA1-Digest: 5w6muoW3bkFvQzkoe9rtz2lUM0s=
+
+Name: res/layout-sw720dp-port-mdpi-v13/explore_dolby_atmos.xml
+SHA1-Digest: dE577k+geTbzFHkDUs5YA5HwJuY=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: ut8EBkakRCc8nnhZDDVJcnuOPQA=
+
+Name: res/layout-ldrtl-sw720dp-port-xhdpi-v13/preset_list_item.xml
+SHA1-Digest: 8bM6G8LfnI56ibuJ1/s/ksIIgXw=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/fragprofileeditor.xml
+SHA1-Digest: +hcRfQ/YXAkNP+DKwmfzVjuXTx0=
+
+Name: res/layout-sw800dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: yVOEH3G9QoksJX9PESh3WGde0HI=
+
+Name: res/drawable-sw600dp-v13/eq1sel.png
+SHA1-Digest: 0dvs19T/pBMcRAzBEU3UCGzmgak=
+
+Name: res/drawable-xhdpi-v4/tooltip_qm_pressed.png
+SHA1-Digest: bylycPYGMN+9mXDD21jPenj5C9U=
+
+Name: res/drawable-xhdpi-v4/eqlistbkg.png
+SHA1-Digest: SByW0iZfd7jIGvR7TEcjtczfR0I=
+
+Name: res/drawable-sw480dp-land-xhdpi-v13/bg_dolby_atmos.png
+SHA1-Digest: FM6wDPSsGP/06+RhIqQ2CYLM1Yg=
+
+Name: res/drawable-sw600dp-v13/preset2on.png
+SHA1-Digest: R55Urm3uBtHIEcAIO9iULkBLBEY=
+
+Name: res/layout-sw600dp-port-v13/preset_list_item0.xml
+SHA1-Digest: qXvcGPewusLqqhMb7813rTruVEQ=
+
+Name: assets/fonts/DolbyGustan-Book.otf
+SHA1-Digest: L52Tg+DATAqJpfI0lfT3J/40nac=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq5dis.png
+SHA1-Digest: hOz3LROVgZObAhQapqxAUaA9P2g=
+
+Name: res/layout-sw320dp-land-v13/main.xml
+SHA1-Digest: N8VGJPCE2SaoS7RXYBNEqZ8KL/I=
+
+Name: res/drawable/tooltip_qm_pressed.png
+SHA1-Digest: nhkCqKW23RiiDYqCCff+sl2BdXo=
+
+Name: res/drawable-sw600dp-v13/eq5dis.png
+SHA1-Digest: sgiKILbJJx7sBXu9FgG5K0pY6+0=
+
+Name: res/drawable-sw720dp-port-v13/eq4.png
+SHA1-Digest: h47M07XB3NuHekyxMTJmXgPpklA=
+
+Name: res/layout-ldrtl-sw320dp-port-v13/header.xml
+SHA1-Digest: hCk1Mn7QJdmdXITlvxQov20HkzY=
+
+Name: res/layout/splash_screen.xml
+SHA1-Digest: E+G20AD+cYQw3cnRwnaPJQ+LXRQ=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/bg_dolby_app.png
+SHA1-Digest: 56zZJOTwcVNFaLhMPWNYR03b3QQ=
+
+Name: res/drawable-xhdpi-v4/mock_gv_brick_blue.png
+SHA1-Digest: u6p0DPkKSDX9n2SFuei+LXAgSeA=
+
+Name: res/layout-sw360dp-port-v13/fraggraphicvisualizer.xml
+SHA1-Digest: XYEo6Zf90NF1kpJXICiFPrcW3+0=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq_bar.png
+SHA1-Digest: rtlq3yo3nVgCDx6FaPH3IcLqkOw=
+
+Name: res/drawable/blackframe.9.png
+SHA1-Digest: tN8ieuoZxg2bbvvdhXkT/uNrtTE=
+
+Name: res/layout-sw320dp-port-v13/fragpower.xml
+SHA1-Digest: 34OUm8Q1EToq5rr684fhbM1JU3M=
+
+Name: res/layout-sw320dp-port-v13/preset_list_item0.xml
+SHA1-Digest: OrUwObMfLyUrCd0qKF5knsl56iU=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/main.xml
+SHA1-Digest: pEtqSuPkEh7Y12R0Zq7XnfsfHew=
+
+Name: res/layout-ldrtl-sw640dp-land-xhdpi-v13/main.xml
+SHA1-Digest: VReQcKLvyDthJNEsrAqd0ER9698=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq_bar.png
+SHA1-Digest: qyUy56w62jQsMsUxB3zB1iSUC3k=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/fragpower.xml
+SHA1-Digest: GZta7l/Wrn1m/6fhcALHl/VIK24=
+
+Name: res/drawable-sw600dp-land-v13/eqlistsel.png
+SHA1-Digest: PAApaQZdSgWw3mKjbLFEVsKZ1wY=
+
+Name: res/drawable-xhdpi-v4/switchoff_ldrtl.png
+SHA1-Digest: PnzSqFZNR1QW0qoWICo343ZSyZo=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/btn_scroll.png
+SHA1-Digest: a6S4NApSxykTiORVJIwyKeLNibY=
+
+Name: res/drawable-sw720dp-port-v13/eq5dis.png
+SHA1-Digest: CZdKx7XwIUJO4HyugHt78hvdM2k=
+
+Name: res/layout-sw640dp-port-xhdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: jSLrntfa9V5zIKwx0AkOQ5rOrm0=
+
+Name: res/layout-ldrtl-sw740dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: uEd7Lpah+BCTxW0i2wWKy9323WY=
+
+Name: res/drawable-sw600dp-v13/gameon.png
+SHA1-Digest: JEb26YfyYmBvbTDORJc5RYbgnlQ=
+
+Name: res/drawable/tooltip_border.9.png
+SHA1-Digest: ELFYjtv1KZ1Ue6NjnDKyYy0l8L0=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq1dis.png
+SHA1-Digest: C0gZQzLUcGlxpnp5rFrH+kXFVTE=
+
+Name: res/layout-ldrtl-sw600dp-v13/preset_list_item.xml
+SHA1-Digest: uam4E+9O9vbf2zAINso1lXj1uSc=
+
+Name: res/layout-sw640dp-land-xhdpi-v13/videoplayer.xml
+SHA1-Digest: DF8AcVZC6rTQJWQjXO2pzpt1k4M=
+
+Name: res/layout-sw720dp-port-v13/fragpower.xml
+SHA1-Digest: nS6DvD7cmKrZI0s7vxJ+VYLw4Vo=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/splash_screen.xml
+SHA1-Digest: JMdcUZqvSO56SrM1QFkCyRHFpQc=
+
+Name: res/layout-ldrtl-sw800dp-port-hdpi-v13/fragprofileeditor.xml
+SHA1-Digest: GRiLooiH0c5RSNzvvLjzx5ereFk=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eqlistoff.png
+SHA1-Digest: A5UvOOOtgZDWe9xZy1FoeMhJkwY=
+
+Name: res/layout-sw800dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: 2J2B5N+mUrV6cbP/+xfrHRyCmzY=
+
+Name: res/layout-sw360dp-port-v13/fragpower.xml
+SHA1-Digest: ds3kDF4+WSZ2dQ6tAvqSftvu940=
+
+Name: res/drawable-sw360dp-port-xhdpi-v13/topselectedbackground.png
+SHA1-Digest: rmr0vYfAiYRWvztviE81qJXKfGk=
+
+Name: res/drawable-sw600dp-xhdpi-v13/eq7.png
+SHA1-Digest: yACyeYcSoUbqML+Cm7j7bE4Y+oA=
+
+Name: res/drawable-sw800dp-port-v13/profilesbg.png
+SHA1-Digest: 60gZvEyxgoDHEdPdzwWGS2izFJk=
+
+Name: assets/fonts/Roboto-Regular.ttf
+SHA1-Digest: TTU3ocuLCMUF7BDPrY9yGsrIm+Q=
+
+Name: res/drawable-sw640dp-port-v13/dslogo_splash.png
+SHA1-Digest: T2OdJpRNz0XygY/PcWb7LIXNvAU=
+
+Name: res/drawable-sw600dp-v13/profilesbg.png
+SHA1-Digest: Me/pCXj2EhYgiRVcrJqmKhJutfM=
+
+Name: res/layout-sw720dp-port-v13/videoplayer.xml
+SHA1-Digest: gbT2Rz26ElWKAgrhyA24RMe+YfA=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/fragprofilepresets.xml
+SHA1-Digest: kNShfLol4dZLN501KuXR83761aM=
+
+Name: res/drawable-sw720dp-port-v13/eq3.png
+SHA1-Digest: Yec9misGQSbSmWB00YZb98MezQc=
+
+Name: res/drawable-sw720dp-port-v13/dslogodis.png
+SHA1-Digest: rBJlmehaEQ6b06SX6bhSs1GzhGs=
+
+Name: res/drawable-sw320dp-xhdpi-v13/switchoff_ldrtl.png
+SHA1-Digest: fGFOZrCkuKAmovNYUvOkZxGxvXY=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq4sel.png
+SHA1-Digest: hZsjMmfV8ZNaahzgtFABJeWMV5Q=
+
+Name: res/layout-sw800dp-port-hdpi-v13/fragexploredolbyatmos.xml
+SHA1-Digest: iiTkXiYLc382JG1HarUmohL9rYE=
+
+Name: res/drawable-sw720dp-port-v13/switchoff_ldrtl.png
+SHA1-Digest: JX9SHo/B/tZYQ3qKmFQ9HprzMJY=
+
+Name: res/layout-sw600dp-port-v13/videoplayer.xml
+SHA1-Digest: 2B9zZA9AhLiajL/3iXb1FKRyRY0=
+
+Name: res/layout-ldrtl-sw800dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: 7MSKB2SX/eHtrKITXVB/Rc7KRTg=
+
+Name: res/layout-sw720dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: LElK+0TImV7mRbj/JbzmeM1NPSQ=
+
+Name: res/drawable-sw360dp-xhdpi-v13/eq1dis.png
+SHA1-Digest: k+bNieXTg4YE2tlXqYm8cvRlGp8=
+
+Name: res/drawable/replay_on.png
+SHA1-Digest: dlR+iUtvBghWaXdxjNOh1r+m7VI=
+
+Name: res/drawable-sw320dp-xhdpi-v13/preset2dis.png
+SHA1-Digest: peVxC5zQMRCc5p0MsuVEBROeyrY=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/gameoff.png
+SHA1-Digest: MssGp3WwRZuJQpFKuV2yoo8VeNY=
+
+Name: res/layout-sw740dp-port-xhdpi-v13/equalizer_list_item.xml
+SHA1-Digest: d7cnVV/KKCStOtPtRyDFYCdFxCc=
+
+Name: res/layout-sw320dp-land-v13/fragswitches.xml
+SHA1-Digest: mbsyYkT03GOBjrhLmuJwyhP0yRs=
+
+Name: res/drawable/revert_pressed.png
+SHA1-Digest: 8taAbK9ka+bXWxqAUytvkB6339E=
+
+Name: res/drawable-sw320dp-xhdpi-v13/revert_profile.png
+SHA1-Digest: dZzD89AySm/8NtJ24LbaVnq9nSw=
+
+Name: res/layout-sw720dp-port-v13/explore_dolby_atmos.xml
+SHA1-Digest: T53iRjBh9L1bBeZlrnu2YmkOaP4=
+
+Name: res/drawable-sw320dp-xhdpi-v13/eq2dis.png
+SHA1-Digest: 9aQ8wKW7KT1ZtAs7GtIFCRJPrik=
+
+Name: res/drawable-sw720dp-port-mdpi-v13/eq1.png
+SHA1-Digest: pAIRo1BRahLQ+Ge9rF07CYjoqxE=
+
+Name: res/drawable-sw720dp-port-v13/profileblank.png
+SHA1-Digest: zKFJT+qP5EH7ka8azsud8UAt2nk=
+
+Name: res/drawable-sw600dp-xhdpi-v13/revert_profile.png
+SHA1-Digest: +80WOEzCwQVW71PqtRNqHEJZCfA=
+
+Name: res/drawable-xhdpi-v4/tooltip_border.9.png
+SHA1-Digest: 9e6WOMAR0lUY5WqgORMqtzymoQk=
+
+Name: res/layout-ldrtl-sw640dp-port-xhdpi-v13/fragpower.xml
+SHA1-Digest: F9miKhKdcRHW+FfA3oHgBDDyMi0=
+
+Name: res/drawable-sw600dp-xhdpi-v13/dslogo.png
+SHA1-Digest: 5Tnhh11M2rtiq0p7f1MgQbi05Gw=
+
+Name: res/layout-sw600dp-port-v13/preset_list_item1.xml
+SHA1-Digest: nLxQu9mkED+ohRfIzq/5QBsuIDU=
+

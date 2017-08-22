@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0sp" android:layout_weight="1.0">
+        <include android:id="@id/verticalAxis" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="8.0sp" android:layout_marginRight="4.0sp" android:layout_marginBottom="8.0sp" android:layout_alignParentTop="true" android:layout_alignParentRight="true" layout="@layout/vertical_axis" />
+        <FrameLayout android:id="@id/spectralVis" android:background="@drawable/spec_frame" android:padding="12.0sp" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="19.0sp" android:layout_toLeftOf="@id/verticalAxis" android:layout_alignParentTop="true">
+            <com.dolby.daxappUI.GraphicVisualiser android:id="@id/graphic_vis" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="100.0sp" android:layout_marginLeft="18.0dip">
+        <TextView android:textAppearance="@style/TextAppearanceMedium" android:id="@id/equalizerLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0sp" android:layout_marginTop="16.0sp" android:layout_marginBottom="8.0sp" android:text="@string/intelligent_equalizer" android:layout_alignParentLeft="true" />
+        <ImageView android:id="@id/qm_inteq" android:layout_width="19.0sp" android:layout_height="21.0sp" android:layout_marginLeft="15.0sp" android:src="@drawable/sel_tooltip_qm" android:layout_toRightOf="@id/equalizerLabel" android:layout_alignBottom="@id/equalizerLabel" />
+        <TextView android:textAppearance="@style/TextAppearanceIntelligent" android:id="@id/equalizerName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0sp" android:layout_marginTop="50.0sp" android:layout_alignParentLeft="true" />
+        <ImageView android:id="@id/eqResetButton" android:layout_width="45.0sp" android:layout_height="35.0sp" android:layout_marginLeft="20.0sp" android:src="@drawable/sel_revert" android:layout_toRightOf="@id/equalizerName" android:layout_below="@id/equalizerLabel" android:layout_alignBottom="@id/equalizerName" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_gravity="right" android:layout_width="720.0sp" android:layout_height="wrap_content" android:layout_marginRight="55.0sp">
+        <GridView android:id="@id/equalizerListView" android:background="@drawable/eqlistbkg" android:layout_width="508.0sp" android:layout_height="77.0sp" android:layout_marginLeft="4.0sp" android:layout_marginTop="9.0sp" android:listSelector="@android:color/transparent" android:numColumns="3" android:layout_alignLeft="@id/eqListFrame" android:layout_alignTop="@id/eqListFrame" />
+        <ImageView android:id="@id/equalizerCustom" android:layout_width="167.0sp" android:layout_height="77.0sp" android:layout_marginTop="9.0sp" android:layout_marginRight="11.0sp" android:scaleType="fitCenter" android:layout_alignTop="@id/eqListFrame" android:layout_alignRight="@id/eqListFrame" style="@style/EqualizerCustomButton" />
+        <ImageView android:id="@id/eqListFrame" android:layout_width="720.0sp" android:layout_height="95.0sp" android:src="@drawable/eqlistframe_image" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+</LinearLayout>

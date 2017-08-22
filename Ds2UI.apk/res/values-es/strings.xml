@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intelligent_equalizer">Ecualizador inteligente</string>
+    <string name="surround_virtualizer">Virtualizador Surround</string>
+    <string name="dialogue_enhancer">Mejorador de diálogo</string>
+    <string name="volume_leveler">Ajustador de volumen</string>
+    <string name="copyright">Dolby y el símbolo de la doble D son marcas comerciales registradas de Dolby Laboratories. © 2014 Dolby Laboratories Todos los derechos reservados.</string>
+    <string name="movie">Película</string>
+    <string name="music">Música</string>
+    <string name="game">Juego</string>
+    <string name="voice">Voz</string>
+    <string name="preset_1">Personalizar 1</string>
+    <string name="preset_2">Personalizar 2</string>
+    <string name="open">Abierto</string>
+    <string name="rich">Sonoro</string>
+    <string name="focused">Centrado</string>
+    <string name="off">APAGADO</string>
+    <string name="custom">Personalizado</string>
+    <string name="db36">36dB</string>
+    <string name="db24">24dB</string>
+    <string name="db12">12dB</string>
+    <string name="db0">0dB</string>
+    <string name="dbn12">-12dB</string>
+    <string name="graphical_equalizer">Ecualizador gráfico</string>
+    <string name="app_name">Dolby Atmos</string>
+    <string name="instore_menu_text">Reproducir demostración</string>
+    <string name="explore_dolby_atmos">"Explore 
+Dolby Atmos"</string>
+    <string name="dolby_explore_atmos_remark">Dolby Atmos crea una experiencia increíble a través de los auriculares con un sonido multidimensional que se eleva y nos envuelve.</string>
+    <string name="dolby_explore_atmos_learn_more">Más información</string>
+    <string name="experience_dolby_enhanced_apps">Pruebe las aplicaciones mejoradas de Dolby</string>
+    <string name="experience_dolby_remark">Sumérjase en las aplicaciones y juegos que aprovechan las ventajas de Dolby Audio. Tanto si usa los auriculares como los altavoces integrados, el diálogo se percibe más claramente y los niveles de volumen están perfectamente equilibrados, lo que hace que la experiencia resulte más real.</string>
+    <string name="access_dolby_enhanced_app">¡Acceda ahora a las aplicaciones mejoradas de Dolby!</string>
+    <string name="dolby_atmos_logo_mark">®</string>
+    <string name="tooltip_eq_title">Ecualizador inteligente/Ecualizador gráfico</string>
+    <string name="tooltip_eq_text">El Ecualizador inteligente analiza y regula dinámicamente el audio para que coincida con el tono deseado. Elija entre los cuatro ajustes predefinidos y luego acceda al Visualizador espectral para realizar cambios personalizados en el Ecualizador gráfico.</string>
+    <string name="tooltip_sv_title">Virtualizador Surround</string>
+    <string name="tooltip_sv_text">El Virtualizador Surround genera un sonido envolvente más real para cualquier tipo de auriculares o altavoces estéreo. Encienda o apague este botón para controlar el efecto de sonido envolvente.</string>
+    <string name="tooltip_de_title">Mejorador de diálogo</string>
+    <string name="tooltip_de_text">La función Mejorador de diálogo realza la claridad de la voz en cualquier tipo de contenido multimedia. Encienda o apague este botón para controlar la mejora del diálogo.</string>
+    <string name="tooltip_vl_title">Ajustador de volumen</string>
+    <string name="tooltip_vl_text">El Ajustador de volumen proporciona un nivel de volumen constante para todos los contenidos y aplicaciones en función del nivel del control de volumen del dispositivo. Encienda o apague este botón para controlar el nivelado automático del volumen.</string>
+</resources>

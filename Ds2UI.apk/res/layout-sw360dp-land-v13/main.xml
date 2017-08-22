@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/topbar" android:background="@drawable/topbackground" android:layout_width="fill_parent" android:layout_height="82.0sp">
+        <fragment android:name="com.dolby.daxappUI.FragPower" android:id="@id/fragpower" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <RelativeLayout android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/dsLogo" android:layout_width="246.0sp" android:layout_height="36.0sp" android:src="@drawable/dslogo" android:layout_alignParentBottom="true" android:contentDescription="@string/dolbyDigitalPlus" />
+        </RelativeLayout>
+    </FrameLayout>
+    <LinearLayout android:id="@id/body" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/spectralVisExt" android:layout_width="0.0sp" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <LinearLayout android:id="@id/preseteditorcontainer" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <fragment android:name="com.dolby.daxappUI.FragGraphicVisualizer" android:layout_gravity="bottom" android:id="@id/fraggraphicvisualizer" android:padding="1.0sp" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/fragmentcontainer" android:layout_width="250.0sp" android:layout_height="fill_parent" />
+    </LinearLayout>
+</LinearLayout>

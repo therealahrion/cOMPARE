@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:soundEffectsEnabled="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="#19ffffff" android:layout_width="fill_parent" android:layout_height="1.0sp" android:layout_alignParentTop="true" />
+    <View android:id="@id/vw2" android:background="@color/black" android:layout_width="2.0sp" android:layout_height="64.0sp" android:layout_alignParentLeft="true" />
+    <View android:id="@id/vw3" android:background="@color/black" android:layout_width="2.0sp" android:layout_height="64.0sp" android:layout_alignParentRight="true" />
+    <RelativeLayout android:id="@id/ly1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/vw3" android:layout_toRightOf="@id/vw2">
+        <ImageView android:layout_gravity="right" android:id="@id/icon" android:layout_width="wrap_content" android:layout_height="64.0sp" android:layout_marginLeft="17.0sp" android:src="@drawable/movieon" android:scaleType="center" android:soundEffectsEnabled="false" />
+        <TextView android:textSize="23.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="0.0sp" android:layout_centerVertical="true" />
+        <EditText android:textAppearance="?android:textAppearanceLarge" android:textSize="23.0sp" android:textStyle="normal" android:textColor="@color/white" android:id="@id/nameEdit" android:background="@drawable/blueframe" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toRightOf="@id/icon" android:layout_alignBottom="@id/icon" android:inputType="textCapCharacters|textNoSuggestions" />
+    </RelativeLayout>
+    <View android:background="@color/black" android:layout_width="fill_parent" android:layout_height="1.0sp" android:layout_below="@id/vw2" android:layout_alignParentBottom="false" />
+</RelativeLayout>

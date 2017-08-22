@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearanceSmall">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+    <style name="TextAppearanceMedium">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+    <style name="TextAppearanceMediumBlue">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text_color_bluehide</item>
+    </style>
+    <style name="TextAppearanceLargeBlue">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_bluehide</item>
+    </style>
+    <style name="TextAppearanceLargeGreen">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_green</item>
+    </style>
+    <style name="TextAppearanceLarge">
+        <item name="android:textSize">34.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+    <style name="TextAppearanceCopyright">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff666666</item>
+    </style>
+    <style name="SwitchButton">
+        <item name="android:background">@drawable/switch_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textOn">" "</item>
+        <item name="android:textOff">" "</item>
+    </style>
+    <style name="EqualizerCustomButton">
+        <item name="android:background">@drawable/eq_custom_bkg</item>
+        <item name="android:src">@drawable/eq_custom_image</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="ExploreAtmosLogo">
+        <item name="android:textSize">32.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffeeeeee</item>
+    </style>
+    <style name="ExploreAtmosLogoForMobile">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffeeeeee</item>
+    </style>
+    <style name="ExploreAtmosRemark">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffeeeeee</item>
+    </style>
+    <style name="ExploreAtmosLearnMore">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffeeeeee</item>
+    </style>
+    <style name="TextAppearanceIntelligent">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/text_color_equalizername</item>
+    </style>
+    <style name="TextAppearanceIntelligentN">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffeeeeee</item>
+    </style>
+    <style name="ExploreAtmosRemarkP">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffeeeeee</item>
+    </style>
+    <style name="ExperienceDolbyRemarkP">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffeeeeee</item>
+    </style>
+</resources>

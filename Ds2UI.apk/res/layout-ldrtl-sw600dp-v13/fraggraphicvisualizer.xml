@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0sp" android:layout_weight="1.0">
+        <include android:id="@id/verticalAxis" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="8.0sp" android:layout_marginRight="4.0sp" android:layout_marginBottom="8.0sp" android:layout_alignParentTop="true" android:layout_alignParentRight="true" layout="@layout/vertical_axis" />
+        <FrameLayout android:id="@id/spectralVis" android:background="@drawable/spec_frame" android:padding="12.0sp" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="19.0sp" android:layout_toLeftOf="@id/verticalAxis" android:layout_alignParentTop="true">
+            <com.dolby.daxappUI.GraphicVisualiser android:id="@id/graphic_vis" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </FrameLayout>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="120.0sp" android:layout_marginTop="20.0sp" android:layout_marginBottom="0.0sp" android:layout_marginStart="48.0sp">
+        <TextView android:textAppearance="@style/TextAppearanceMedium" android:ellipsize="end" android:id="@id/equalizerLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0sp" android:layout_marginBottom="8.0sp" android:maxWidth="230.0sp" android:text="@string/intelligent_equalizer" android:singleLine="true" android:layout_marginStart="15.0sp" android:layout_alignParentStart="true" />
+        <ImageView android:id="@id/qm_inteq" android:layout_width="19.0sp" android:layout_height="21.0sp" android:src="@drawable/sel_tooltip_qm" android:layout_alignBottom="@id/equalizerLabel" android:layout_marginStart="15.0sp" android:layout_toEndOf="@id/equalizerLabel" />
+        <TextView android:textAppearance="@style/TextAppearanceIntelligent" android:id="@id/equalizerName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="50.0sp" android:layout_marginStart="15.0sp" android:layout_alignParentStart="true" />
+        <ImageView android:id="@id/eqResetButton" android:layout_width="45.0sp" android:layout_height="35.0sp" android:src="@drawable/sel_revert" android:layout_below="@id/equalizerLabel" android:layout_alignBottom="@id/equalizerName" android:layout_marginStart="20.0sp" android:layout_toEndOf="@id/equalizerName" />
+        <RelativeLayout android:layout_width="610.0sp" android:layout_height="wrap_content" android:layout_marginLeft="54.0sp" android:layout_marginBottom="5.0sp" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+            <GridView android:id="@id/equalizerListView" android:background="@drawable/eqlistbkg" android:scrollbars="none" android:layout_width="362.5sp" android:layout_height="55.0sp" android:layout_marginTop="11.5sp" android:layout_marginRight="2.0sp" android:listSelector="@android:color/transparent" android:numColumns="3" android:layout_alignTop="@id/eqListFrame" android:layout_alignRight="@id/eqListFrame" android:isScrollContainer="false" />
+            <ImageView android:id="@id/equalizerCustom" android:layout_width="121.0sp" android:layout_height="55.0sp" android:layout_marginLeft="4.0sp" android:layout_marginTop="11.5sp" android:scaleType="fitCenter" android:layout_alignLeft="@id/eqListFrame" android:layout_alignTop="@id/eqListFrame" style="@style/EqualizerCustomButton" />
+            <ImageView android:id="@id/eqListFrame" android:layout_width="510.0sp" android:layout_height="78.0sp" android:src="@drawable/eqlistframe_image_ldrtl" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

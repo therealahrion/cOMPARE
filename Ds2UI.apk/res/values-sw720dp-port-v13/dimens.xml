@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="exploreatmoslogo">280.0sp</dimen>
+    <dimen name="txtupremark">345.0sp</dimen>
+    <dimen name="exploreatmoslearnmore">430.0sp</dimen>
+    <dimen name="txtdownremark">530.0sp</dimen>
+    <dimen name="exploreatmosaccess">630.0sp</dimen>
+    <dimen name="txtdownname">950.0sp</dimen>
+</resources>

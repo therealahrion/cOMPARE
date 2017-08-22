@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intelligent_equalizer">智慧型等化器</string>
+    <string name="surround_virtualizer">虛擬環繞音效設定器</string>
+    <string name="dialogue_enhancer">對白強化器</string>
+    <string name="volume_leveler">音量調節器</string>
+    <string name="copyright">Dolby 和雙 D 符號是 Dolby Laboratories 的註冊商標。© 2014 Dolby Laboratories。保留一切權利。</string>
+    <string name="movie">電影</string>
+    <string name="music">音樂</string>
+    <string name="game">遊戲</string>
+    <string name="voice">語音</string>
+    <string name="preset_1">自訂 1</string>
+    <string name="preset_2">自訂 2</string>
+    <string name="open">開闊</string>
+    <string name="rich">飽滿</string>
+    <string name="focused">突揚</string>
+    <string name="off">關</string>
+    <string name="custom">手動</string>
+    <string name="db36">36dB</string>
+    <string name="db24">24dB</string>
+    <string name="db12">12dB</string>
+    <string name="db0">0dB</string>
+    <string name="dbn12">-12dB</string>
+    <string name="graphical_equalizer">圖形等化器</string>
+    <string name="app_name">Dolby Atmos</string>
+    <string name="instore_menu_text">播放示範操作</string>
+    <string name="explore_dolby_atmos">探索了解 Dolby Atmos</string>
+    <string name="dolby_explore_atmos_remark">Dolby Atmos 創造令人讚嘆的流動耳機體驗，優美的立體音響環繞在您的四週。</string>
+    <string name="dolby_explore_atmos_learn_more">了解更多</string>
+    <string name="experience_dolby_enhanced_apps">體驗 Dolby 增強版應用程式</string>
+    <string name="experience_dolby_remark">您可完全融入運用 Dolby Audio 技術的應用程式和遊戲。無論是戴上耳機或使用內建喇叭，您聽到的對話更為清晰、音量極為完美均衡，您也將進入更深層的體驗。</string>
+    <string name="access_dolby_enhanced_app">立即使用 Dolby 增強版應用程式！</string>
+    <string name="dolby_atmos_logo_mark">®</string>
+    <string name="tooltip_eq_title">智慧型等化器/圖形等化器</string>
+    <string name="tooltip_eq_text">智慧型等化器可持續分析並動態調整音訊，以使之符合所需的音調。從所示四個預設項中選擇，然後點按頻段聲譜虛擬化器，以對圖形等化器進行自訂修改。</string>
+    <string name="tooltip_sv_title">虛擬環繞音效設定器</string>
+    <string name="tooltip_sv_text">虛擬環繞音效設定器可讓各種耳機或立體聲喇叭發出親歷其境的環繞音效。可用「開」或「關」控制環繞音效功能。</string>
+    <string name="tooltip_de_title">對白強化器</string>
+    <string name="tooltip_de_text">對白強化器可提升各類媒體的話音清晰度。可用「開」或「關」控制對白強化功能。</string>
+    <string name="tooltip_vl_title">音量調節器</string>
+    <string name="tooltip_vl_text">音量調節器可根據裝置的主要音量值，為所有內容及應用程式提供一致的音量。可用「開」或「關」控制自動音量調節功能。</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="14.0">
+        <LinearLayout android:gravity="start|center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="@style/TextAppearanceMedium" android:gravity="center_vertical" android:id="@id/svText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/surround_virtualizer" android:layout_marginStart="7.0sp" />
+            <ImageView android:gravity="center_vertical" android:id="@id/qm_sv" android:layout_width="19.0sp" android:layout_height="21.0sp" android:src="@drawable/sel_tooltip_qm" android:layout_marginStart="6.0sp" />
+        </LinearLayout>
+        <ToggleButton android:gravity="start|center" android:layout_gravity="start" android:id="@id/svButton" android:layout_width="214.0sp" android:layout_height="72.0sp" style="@style/SwitchButton_ldrtl" />
+    </LinearLayout>
+    <View android:background="@color/border" android:layout_width="1.0sp" android:layout_height="75.0sp" android:layout_marginTop="5.0sp" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="17.0">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/linearLayout1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignStart="@id/deButton">
+            <TextView android:textAppearance="@style/TextAppearanceMedium" android:id="@id/deText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dialogue_enhancer" android:layout_marginStart="0.0sp" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/qm_de" android:layout_width="19.0sp" android:layout_height="21.0sp" android:src="@drawable/sel_tooltip_qm" android:layout_marginStart="15.0sp" />
+        </LinearLayout>
+        <ToggleButton android:id="@id/deButton" android:layout_width="214.0sp" android:layout_height="72.0sp" android:layout_centerHorizontal="true" style="@style/SwitchButton_ldrtl" />
+    </LinearLayout>
+    <View android:background="@color/border" android:layout_width="1.0sp" android:layout_height="75.0sp" android:layout_marginTop="5.0sp" />
+    <LinearLayout android:gravity="left" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="14.0">
+        <LinearLayout android:gravity="center|left" android:orientation="horizontal" android:id="@id/linearLayout2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignStart="@id/vlButton">
+            <TextView android:textAppearance="@style/TextAppearanceMedium" android:id="@id/vlText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/volume_leveler" android:layout_marginStart="14.0sp" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/qm_vl" android:layout_width="19.0sp" android:layout_height="21.0sp" android:src="@drawable/sel_tooltip_qm" android:layout_marginStart="10.0sp" android:layout_marginEnd="7.0sp" />
+        </LinearLayout>
+        <ToggleButton android:id="@id/vlButton" android:layout_width="214.0sp" android:layout_height="72.0sp" android:layout_alignParentEnd="true" style="@style/SwitchButton_ldrtl" />
+    </LinearLayout>
+</LinearLayout>

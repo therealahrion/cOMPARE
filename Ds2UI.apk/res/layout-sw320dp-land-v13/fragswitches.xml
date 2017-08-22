@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="15.0dip">
+        <TextView android:textSize="14.0dip" android:textColor="@color/white" android:id="@id/vlText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="15.0dip" android:text="@string/volume_leveler" />
+        <ToggleButton android:id="@id/vlButton" android:layout_width="96.0dip" android:layout_height="22.5dip" android:layout_marginBottom="20.0dip" android:layout_below="@id/vlText" android:layout_alignParentLeft="true" style="@style/SwitchButton" />
+        <View android:background="#ff0e527a" android:layout_width="fill_parent" android:layout_height="1.5dip" android:layout_below="@id/vlButton" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip">
+        <TextView android:textSize="14.0dip" android:textColor="@color/white" android:id="@id/deText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="15.0dip" android:text="@string/dialogue_enhancer" />
+        <ToggleButton android:id="@id/deButton" android:layout_width="96.0dip" android:layout_height="22.5dip" android:layout_marginBottom="20.0dip" android:layout_below="@id/deText" android:layout_alignParentLeft="true" style="@style/SwitchButton" />
+        <View android:background="#ff0e527a" android:layout_width="fill_parent" android:layout_height="1.5dip" android:layout_below="@id/deButton" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip">
+        <TextView android:textSize="14.0dip" android:textColor="@color/text_color" android:id="@id/svText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="15.0dip" android:text="@string/surround_virtualizer" />
+        <ToggleButton android:id="@id/svButton" android:layout_width="96.0dip" android:layout_height="22.5dip" android:layout_marginBottom="20.0dip" android:layout_below="@id/svText" android:layout_alignParentLeft="true" style="@style/SwitchButton" />
+        <View android:background="#ff0e527a" android:layout_width="fill_parent" android:layout_height="1.5dip" android:layout_below="@id/svButton" />
+    </RelativeLayout>
+</LinearLayout>

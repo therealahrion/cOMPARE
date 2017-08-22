@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/main" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:background="@drawable/profilesbg" android:layout_width="0.0sp" android:layout_height="fill_parent" android:weightSum="1280.0" android:layout_weight="300.0">
+            <fragment android:name="com.dolby.daxappUI.FragPower" android:id="@id/fragpower" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_marginEnd="160.0sp" android:layout_alignParentEnd="true" />
+            <ImageView android:id="@id/dsLogo" android:layout_width="72.0dip" android:layout_height="96.0dip" android:layout_marginTop="0.0sp" android:src="@drawable/dslogo" android:layout_below="@id/fragpower" android:layout_marginStart="95.0dip" android:layout_alignStart="@id/fragprofilepresets" />
+            <fragment android:name="com.dolby.daxappUI.FragProfilePresets" android:id="@id/fragprofilepresets" android:layout_width="270.0sp" android:layout_height="474.0sp" android:layout_marginTop="25.0sp" android:layout_below="@id/dsLogo" android:layout_alignParentEnd="true" />
+            <View android:background="@color/black" android:layout_width="fill_parent" android:layout_height="2.0sp" android:layout_alignTop="@id/fragprofilepresets" android:layout_alignStart="@id/fragprofilepresets" android:layout_alignParentEnd="true" />
+            <View android:background="@color/black" android:layout_width="2.0sp" android:layout_height="fill_parent" android:layout_alignTop="@id/fragprofilepresets" android:layout_alignBottom="@id/fragprofilepresets" android:layout_alignStart="@id/fragprofilepresets" />
+        </RelativeLayout>
+        <View android:background="@color/border" android:layout_width="1.0sp" android:layout_height="fill_parent" />
+        <RelativeLayout android:id="@id/rightview" android:layout_width="0.0sp" android:layout_height="fill_parent" android:weightSum="1280.0" android:layout_weight="980.0">
+            <RelativeLayout android:id="@id/rightviewchild" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <View android:id="@id/viewbottom" android:background="@color/border" android:layout_width="fill_parent" android:layout_height="1.0sp" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" />
+                <RelativeLayout android:id="@id/copyrightBox" android:layout_width="fill_parent" android:layout_height="50.0sp" android:layout_alignParentBottom="true" android:layout_alignParentStart="true" />
+                <fragment android:name="com.dolby.daxappUI.FragSwitches" android:id="@id/fragswitches" android:layout_width="fill_parent" android:layout_height="100.0sp" android:layout_above="@id/copyrightBox" android:layout_marginStart="52.0sp" android:layout_marginEnd="22.0sp" android:layout_alignParentStart="true" />
+                <View android:id="@id/sep1" android:background="@color/border" android:layout_width="fill_parent" android:layout_height="1.0sp" android:layout_marginTop="25.0sp" android:layout_marginBottom="25.0sp" android:layout_above="@id/fragswitches" android:layout_marginStart="57.0sp" android:layout_marginEnd="30.0sp" android:layout_alignParentStart="true" />
+                <fragment android:name="com.dolby.daxappUI.FragGraphicVisualizer" android:id="@id/fraggraphicvisualizer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/sep1" android:layout_alignParentStart="true" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</FrameLayout>

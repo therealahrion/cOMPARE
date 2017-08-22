@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="20.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/TextAppearanceLarge" android:textSize="27.0sp" android:id="@id/presetName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/off" android:layout_alignParentTop="true" android:layout_marginStart="20.0dip" android:layout_alignParentStart="true" />
+    <ImageView android:id="@id/revertButtonMain" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:src="@drawable/revert_profile" android:layout_alignBottom="@id/presetName" android:soundEffectsEnabled="false" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/presetName" />
+    <EditText android:textAppearance="?android:textAppearanceLarge" android:textSize="27.0sp" android:textStyle="normal" android:textColor="@color/white" android:id="@id/presetNameEdit" android:background="@drawable/blueframe" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="34.0dip" android:layout_marginTop="5.0dip" android:inputType="textCapCharacters|textNoSuggestions" android:layout_marginStart="18.0dip" android:layout_marginEnd="10.0dip" />
+</RelativeLayout>

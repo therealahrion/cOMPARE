@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingTop="20.0sp" android:paddingBottom="12.0sp" android:layout_width="fill_parent" android:layout_height="0.0sp" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/TextAppearanceLarge" android:textSize="32.0sp" android:id="@id/presetName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0sp" android:text="@string/off" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <ImageView android:id="@id/revertButtonMain" android:layout_width="21.5sp" android:layout_height="21.5sp" android:layout_marginLeft="10.0sp" android:layout_marginBottom="6.0sp" android:src="@drawable/revert_profile" android:layout_toRightOf="@id/presetName" android:layout_alignBottom="@id/presetName" android:soundEffectsEnabled="false" />
+        <EditText android:textAppearance="?android:textAppearanceLarge" android:textSize="32.0sp" android:textStyle="normal" android:textColor="@color/white" android:id="@id/presetNameEdit" android:background="@drawable/blueframe" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="42.0sp" android:layout_marginLeft="18.0sp" android:layout_marginTop="3.0sp" android:layout_marginRight="18.0sp" android:inputType="textCapCharacters|textNoSuggestions" />
+    </RelativeLayout>
+</LinearLayout>

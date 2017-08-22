@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:constantSize="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="true" android:state_selected="true" android:drawable="@drawable/eq4sel" />
+    <item android:state_enabled="true" android:drawable="@drawable/eq4" />
+    <item android:drawable="@drawable/eq4dis" />
+</selector>

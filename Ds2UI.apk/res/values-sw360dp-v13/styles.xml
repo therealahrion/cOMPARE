@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearanceLargeBlue">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_bluehide</item>
+    </style>
+    <style name="SwitchButton">
+        <item name="android:background">@drawable/switch_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textOn">" "</item>
+        <item name="android:textOff">" "</item>
+    </style>
+    <style name="TextAppearanceIntelligent">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_color_equalizername</item>
+    </style>
+    <style name="SwitchButton_ldrtl">
+        <item name="android:background">@drawable/switch_button_ldrtl</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textOn">" "</item>
+        <item name="android:textOff">" "</item>
+    </style>
+</resources>

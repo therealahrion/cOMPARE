@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="72.0dip" layout="@layout/header" />
+    <LinearLayout android:orientation="vertical" android:id="@id/preseteditorcontainer" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <include android:layout_width="fill_parent" android:layout_height="168.0dip" layout="@layout/eqlayout" />
+    <ScrollView android:id="@id/thescrollview" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/fragmentcontainer" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </ScrollView>
+</LinearLayout>

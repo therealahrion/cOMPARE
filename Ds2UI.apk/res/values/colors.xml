@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="green">#ff0fea84</color>
+    <color name="ltblue">#ff13aadb</color>
+    <color name="dkblue">#ff0b182e</color>
+    <color name="dkblue2">#ff060c17</color>
+    <color name="blue">#ff16305c</color>
+    <color name="border">#99555555</color>
+    <color name="ltborder">#ff1372a9</color>
+    <color name="white">#ffffffff</color>
+    <color name="halfgray">#ff808080</color>
+    <color name="disabledblue">#ff41729b</color>
+    <color name="disabledblue_selected">#ffa1c2eb</color>
+    <color name="disabledlabels">#ff386386</color>
+    <color name="profilenamecolor">#ffebebeb</color>
+    <color name="equalizernamecolor">#ffb3e0eb</color>
+</resources>

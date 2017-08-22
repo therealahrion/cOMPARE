@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/view_layout" android:padding="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <VideoView android:id="@id/movie_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/right_button_layout" android:paddingLeft="10.0dip" android:paddingTop="15.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+        <ImageButton android:id="@id/stop_button" android:background="@drawable/stop_on" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/stop" />
+        <ImageButton android:id="@id/replay_toggle_button" android:background="@drawable/replay_off" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/replay" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/left_button_layout" android:paddingLeft="10.0dip" android:paddingTop="15.0dip" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+        <ImageButton android:id="@id/exit_button" android:background="@drawable/close_on" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/exit" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/caption_layout" android:paddingLeft="10.0dip" android:paddingRight="10.0dip" android:paddingBottom="15.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+        <TextView android:textColor="#ffffffff" android:gravity="center" android:id="@id/caption_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/default_text" android:shadowColor="#ff000000" android:shadowDx="0.0" android:shadowDy="0.0" android:shadowRadius="4.0" />
+    </LinearLayout>
+</RelativeLayout>

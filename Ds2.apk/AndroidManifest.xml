@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:n1="android" n1:installLocation="auto" package="com.dolby" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <protected-broadcast android:name="DS_ACCESS_RIGHT_GRANTED"/>
+    <application android:allowBackup="true" android:debuggable="true" android:directBootAware="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:persistent="true">
+        <service android:exported="true" android:label="DS Service" android:name=".dax.service.DsService">
+            <intent-filter>
+                <action android:name="com.dolby.api.IDs"/>
+                <action android:name="com.dolby.service.DsService"/>
+                <action android:name="com.dolby.service.DsBooter"/>
+            </intent-filter>
+        </service>
+        <receiver android:enabled="true" android:name=".dax.service.DsBooter" android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.dolby.dax.api.Tunings" android:enabled="true" android:exported="true" android:name="com.dolby.dax.api.TuningsProvider"/>
+        <activity android:label="@string/title_activity_launch_ds_service" android:name=".dax.prototype.LaunchDsServiceActivity"/>
+    </application>
+</manifest>
